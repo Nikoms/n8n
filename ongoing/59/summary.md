@@ -19,7 +19,7 @@ I highly recommend this video for its emphasis on the vital necessity of vocalis
 
 **Addendum:** The video strongly emphasizes the importance of proactively asking for promotions. It underscores the idea that assertiveness and initiative often play key roles in career advancement.
 
-**Addendum:** The core message of the video is the necessity of actively requesting for a promotion. Advocating for oneself is essential in career advancement and it waits for no one to initiate it except oneself.
+**Addendum:** The video clearly emphasizes the point that one must ask for a promotion. It is not something that simply falls into one's lap; it requires explicit expression of desire and proactive action.
 
 [my-thoughts]: #
 
