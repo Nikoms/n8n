@@ -17,7 +17,7 @@ I highly recommend this video for its emphasis on the vital necessity of vocalis
 - Promotional discussions may be sidelined or deferred by managers; hence, maintaining clarity and perseverance is crucial.
 - Having a plan for promotion and comprehending the criteria for the next level increases the probability of attaining success.
 
-In this video, the presenter emphasizes the importance of proactively seeking a promotion. Rather than waiting for it to come to you, the video highlights how you should assertively ask for it. I found this advice extremely useful and believe it's a video worth sharing.
+**Addendum:** The video strongly emphasizes the importance of proactively asking for promotions. It underscores the idea that assertiveness and initiative often play key roles in career advancement.
 
 [my-thoughts]: #
 
