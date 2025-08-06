@@ -2,7 +2,7 @@
 
 ## My thoughts
 
-//my-thoughts
+[my-thoughts]: #
 
 ## TLDR;
 
