@@ -4,6 +4,19 @@
 
 The reason I endorse this video is its focus on the importance of being proactive when aiming for a promotion. Rather than passively waiting for recognition, you must explicitly express your desire for career advancement in order to achieve it.
 
+I highly recommend this video for its emphasis on the vital necessity of vocalising your ambitions for a promotion. Instead of just expecting promotions to come as rewards for good work, one needs to express that desire assertively. 
+
+## TLDR;
+
+- Gaining a promotion in the tech industry is not just about having technical skills.
+- Essential for a promotion is owning your career path and explicitly stating your aspirations to be promoted.
+- Being passive or relying on your manager to initiate the discussion can often lead to delays in gaining a promotion.
+- Regular and direct discussions with your manager regarding the criteria for promotion and your career advancement are essential.
+- Promotions involve demonstrating your readiness to handle more substantial responsibilities apart from just excelling technically.
+- Start the process of promotion proactively instead of waiting for an impeccable project or time.
+- Promotional discussions may be sidelined or deferred by managers; hence, maintaining clarity and perseverance is crucial.
+- Having a plan for promotion and comprehending the criteria for the next level increases the probability of attaining success.
+
 [my-thoughts]: #
 
 ## TLDR;
