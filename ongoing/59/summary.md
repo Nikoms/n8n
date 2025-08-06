@@ -2,6 +2,8 @@
 
 ## My thoughts
 
+The reason I endorse this video is its focus on the importance of being proactive when aiming for a promotion. Rather than passively waiting for recognition, you must explicitly express your desire for career advancement in order to achieve it.
+
 [my-thoughts]: #
 
 ## TLDR;
