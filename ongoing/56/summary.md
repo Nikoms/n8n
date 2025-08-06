@@ -2,6 +2,8 @@
 
 ## My thoughts
 
+In this video, the speaker emphasizes that asking for a promotion directly is critical to career advancement. This fact resonates with me and I believe it's something everybody should be aware of. Waiting around will get you nowhere. Hence, I find it crucial to share this video.
+
 [my-thoughts]: #
 
 ## TLDR;
