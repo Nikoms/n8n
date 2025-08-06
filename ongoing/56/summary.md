@@ -2,20 +2,6 @@
 
 ## My thoughts
 
-This is the summary of a study video I recently stumbled upon, titled "The Dead Simple Reason You're Not Getting Promoted (Ex-Amazon Principal Engineer)."
-
-The major takeaway from this video is that obtaining a promotion in the tech field isn't so much about pure technical skills, leadership abilities or how well you can communicate with others. Instead, the video stresses the importance of adopting a proactive approach towards achieving your career goal -- your promotion.
-
-One analogy that particularly stuck with me comes from the video, and it's the Ride Share Analogy. It perfectly encapsulates why actively pursuing your promotion is so crucial instead of passively waiting for it. It says imagine yourself in a ride share, your house is right there in sight, but the driver keeps looking for detours and never drops you off. That's exactly what it feels like waiting for your turn in the promotion queue -- you're just a passenger to the whole process.
-
-Therefore, the video suggests that you should take control of the process. For instance, engage your manager in a frank discussion during one-on-ones to express your ambition and readiness for promotion. Take ownership of your career journey and, essentially, “take” your promotion.
-
-The video further expounds on the importance of playing the Next Level Game which means proving that you’re ready to handle bigger tasks, not merely excelling at your current duties. The author advises not to delay your growth; waiting for the “perfect” moment can cost you as the promotion process could become more stringent over time.
-
-Like the video, I agree that if your manager is not supportive or keeping pushing back, considering other options might be necessary. In essence, taking responsibility for your advancement is key.
-
-The content of the video resonates with me, particularly the part about making it clear to your manager that you desire a promotion. If you never raise the topic, you might never receive the promotion you aspire for.
-
 [my-thoughts]: #
 
 ## TLDR;
