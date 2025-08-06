@@ -15,6 +15,7 @@ The video further expounds on the importance of playing the Next Level Game whic
 Like the video, I agree that if your manager is not supportive or keeping pushing back, considering other options might be necessary. In essence, taking responsibility for your advancement is key.
 
 The content of the video resonates with me, particularly the part about making it clear to your manager that you desire a promotion. If you never raise the topic, you might never receive the promotion you aspire for.
+
 [my-thoughts]: #
 
 ## TLDR;
