@@ -1,5 +1,9 @@
 # The Dead Simple Reason You're Not Getting Promoted (Ex-Amazon Principal Engineer)
 
+## My thoughts
+
+//my-thoughts
+
 ## TLDR;
 
 - Getting promoted in Tech is rarely about just technical skills, leadership, or communication.
