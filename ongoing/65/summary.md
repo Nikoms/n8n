@@ -4,6 +4,10 @@
 
 I apologize for the confusion, but your message appears to be incomplete. Could you please provide more details?
 
+**addendum:** This video further explores the importance of demonstrating the ripple effect of one's contributions rather than simply listing the tasks completed. This concept of emphasizing impact is essential for career advancement and was a standout highlight of the advice given by Ethan Evans.
+
+**TLDR;**: Ethan Evans emphasizes on the need to showcase your impactful contributions in the workspace rather than just stating the responsibilities you undertook. This perspective shift plays a key role in your career growth and progression.
+
 [my-thoughts]: # This video emphasizes the importance of showcasing one's impact, rather than just stating actions taken. It highlights the value of displaying meaningful contributions and influential change, and not merely enumerating tasks performed. This is a key takeaway from Ethan Evans and it's why I am keen on sharing it. The focus on impact-driven results rather than mere task completion truly underlines its importance as a tool for career advancement. 
 
 **addendum:** Moreover, it reiterates the necessity for demonstrating your value in the workplace, especially during interviews, by articulating the tangible difference you've made. It becomes even more crucial when you are in a stagnant position and you want to showcase readiness for new roles. This perspective is highly valuable for anyone desiring career progression.
