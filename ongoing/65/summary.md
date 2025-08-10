@@ -1,33 +1,5 @@
 # Taking control of your career | Ethan Evans (Amazon)
 
-## My thoughts
-
-I apologize for the confusion, but your message appears to be incomplete. Could you please provide more details?
-
-**addendum:** This video further explores the importance of demonstrating the ripple effect of one's contributions rather than simply listing the tasks completed. This concept of emphasizing impact is essential for career advancement and was a standout highlight of the advice given by Ethan Evans.
-
-**TLDR;**: Ethan Evans emphasizes on the need to showcase your impactful contributions in the workspace rather than just stating the responsibilities you undertook. This perspective shift plays a key role in your career growth and progression.
-
-[my-thoughts]: # This video emphasizes the importance of showcasing one's impact, rather than just stating actions taken. It highlights the value of displaying meaningful contributions and influential change, and not merely enumerating tasks performed. This is a key takeaway from Ethan Evans and it's why I am keen on sharing it. The focus on impact-driven results rather than mere task completion truly underlines its importance as a tool for career advancement. 
-
-**addendum:** Moreover, it reiterates the necessity for demonstrating your value in the workplace, especially during interviews, by articulating the tangible difference you've made. It becomes even more crucial when you are in a stagnant position and you want to showcase readiness for new roles. This perspective is highly valuable for anyone desiring career progression.
-
-[my-thoughts]: #
-
-## TLDR;
-
-- Invention requires focused time but not necessarily a lot; one good idea can take years to fully express.
-- The "Magic Loop" is a 5-step career growth method involving doing your job well, asking your manager how to help, doing the tasks assigned, revisiting with goals, and repeating.
-- Most managers are busy or not great at career planning, so employees must take ownership of their growth.
-- Career growth from senior manager to director and beyond requires skill shifts towards influence and strategic thinking.
-- Inventiveness can be systematic, combining expertise with dedicated time and connecting existing ideas.
-- Failure with high-level stakeholders requires owning mistakes, proactive communication, rebuilding trust, and learning for future success.
-- Amazon's leadership principles include "ownership" ('an owner never says that's not my job') and "bias for action" (speed matters).
-- Contrarian opinions: skepticism on full return-to-office benefits and preference for trust over heavy contracts.
-- Interview tips: show enthusiasm, communicate impact of your work, and be fully present.
-- Coaching and courses focus on career progression and breaking through senior management levels.
-
-
 
 ## Content
 
