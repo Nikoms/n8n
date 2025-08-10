@@ -1,5 +1,7 @@
 # Taking control of your career | Ethan Evans (Amazon)
 
+<!--- My thoughts -->
+
 
 ## Content
 
