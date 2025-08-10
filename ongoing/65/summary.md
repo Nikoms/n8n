@@ -2,6 +2,8 @@
 
 ## My thoughts
 
+I apologize for the confusion, but your message appears to be incomplete. Could you please provide more details?
+
 [my-thoughts]: #
 
 ## TLDR;
