@@ -1,0 +1,12 @@
+- The Magic Loop is a 5-step career growth strategy for working well with managers, especially when they are busy or not very engaged.
+- It involves doing your job well, asking how to help, doing what is asked, aligning help with your goals, and repeating the process.
+- Success stories range from entry-level to executive growth using the Magic Loop.
+- At senior leadership levels, being proactive and trusted replaces the need for explicit asks.
+- Invention is systematic and requires domain expertise and dedicated thinking time; one great idea often takes years to fully express.
+- Jeff Bezos values invention as combination and optimization; Amazon's Prime program exemplifies ongoing iterative improvements.
+- Interview success combines enthusiasm, professional appearance, and emphasizing impact over tasks done.
+- Failure at Amazon can be recovered from with ownership, communication, learning, and persistence.
+- The Amazon leadership principle "Ownership" includes the phrase "An owner never says that's not my job," which Ethan helped craft.
+- Bias for Action is another favorite principle emphasizing speed and making reversible decisions.
+- Contrarian views: remote work innovation has more room for improvement than offices; doing business on trust over contracts can be valuable.
+- Ethan coaches on career growth and senior leadership breakthrough, focusing on practical steps to improve and get promoted.
