@@ -1,0 +1,11 @@
+- The "magic loop" is a five-step career growth process involving doing your job well, asking your manager how to help, doing what you're asked, discussing mutual goals, and repeating.
+- The magic loop works especially well when managers are busy or less engaged and is applicable from entry to senior leadership levels.
+- Getting stuck at senior manager level is common due to organizational choke points and a shift in required leadership behaviors from execution to influence and strategy.
+- Inventiveness can be systematically developed by dedicating focused time, leveraging expertise, and combining existing ideas rather than waiting for pure inspiration.
+- Jeff Bezos values invention and bias for action; being fast and willing to take reversible decisions is crucial.
+- Key leadership principles at Amazon include Ownership ("an owner never says that's not my job") and Bias for Action.
+- In interviews, enthusiasm, appearance, and demonstrating impact rather than just effort stand out.
+- Failure management: Own mistakes immediately, communicate proactively with updates, work hard to fix issues, and seek to rebuild trust.
+- Remote work has more room for innovation compared to traditional office work, and over-reliance on contracts undermines trust.
+- Ethan Evans offers coaching and courses focused on career advancement and leadership, especially to senior managers aiming for executive roles.
+
