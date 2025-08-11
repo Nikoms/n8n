@@ -1,9 +1,0 @@
-- Une grande partie de l'épargne des petits épargnants en France profite surtout aux banques et gestionnaires, pas aux épargnants eux-mêmes.
-- Il est possible d'atteindre environ 4 % de rendement réel sans risque et 6 % avec un peu plus de prise de risque réelle.
-- L'immobilier, souvent perçu comme une valeur refuge, est très fiscalisé en France, ce qui diminue son attractivité en tant que placement.
-- Le « carré magique » décrit quatre scénarios économiques qui dictent quels actifs privilégier : actions, or, cash, obligations d'État.
-- Le portefeuille permanent d'Harry Browne répartit ses actifs en parts égales dans ces quatre catégories, apportant environ 4 % de rendement réel avec faible volatilité.
-- Ce portefeuille est diversifié et résilient, marchant bien dans différents contextes historiques sauf en cas de guerre sur le territoire.
-- Avec le vieillissement démographique, il est crucial que chacun se constitue sa propre épargne retraite, l'État ne pouvant plus assurer une retraite digne.
-- Le Bitcoin est considéré comme la seule cryptomonnaie sérieuse dans ce contexte.
-- Les conseillers en gestion de patrimoine doivent être prudents avec les investissements fiscalement favorisés, souvent synonymes d'investissements peu performants intrinsèquement.
