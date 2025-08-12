@@ -1,0 +1,8 @@
+- Started as a support engineer at Amazon in 2006 with heavy on-call load.
+- Motivated to become a software developer, emphasizing preparation for technical interviews.
+- Lesson 1: Interviewing is a numbers game; apply to multiple companies simultaneously to increase chances.
+- Lesson 2: Interviews test how companies avoid hiring bad candidates, not daily job skills; listen to interviewer's guidance.
+- Lesson 3: Don't focus only on technical interview parts; behavioral interviews are critical for landing the job.
+- Use lower tier companies as practice and don't get emotionally tied to a single opportunity.
+- Sponsor mention: Brilliant.org offers interactive learning for math, science, computer science.
+- Encouragement to work hard, prepare well for both technical and behavioral parts of interviews.
