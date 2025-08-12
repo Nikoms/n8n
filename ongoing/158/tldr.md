@@ -1,0 +1,11 @@
+- Tech interviews are broken but consistent in their flaws.
+- There are three types of interview questions: coding, system design, and behavioral, each with surface meaning and deeper intent.
+- Coding questions test problem-solving and reasoning, not just knowledge of answers.
+- Being receptive to hints and thinking out loud is critical during interviews.
+- Maximizing performance requires comfort, calmness, good physical preparation, and reducing anxiety.
+- Practice interviews with lower-stakes companies before targeting dream jobs to improve skills.
+- Organize and track your interview prep and applications using tools like monday.com.
+- System design interviews focus on meaningful conversation around design thinking, requirements gathering, and critical thinking rather than a perfect design.
+- Behavioral interviews probe motivations behind actions to assess cultural fit and teamwork potential.
+- The key strategy for success across all interview types is clearly thinking out loud to demonstrate reasoning and foster interactive dialogue.
+- Interview success is more about fit and thought process than simply getting every question right.
