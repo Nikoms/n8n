@@ -1,0 +1,11 @@
+- Acceptance tests focus on what the system should do, not how it works.
+- Fragility in acceptance tests arises when small system changes break tests.
+- A four-layer approach separates concerns to make tests robust and maintainable.
+- The four layers are: Test Cases (problem domain language), DSL (domain-specific language), Protocol Drivers (interface translation), and System Under Test.
+- DSL provides reusable, abstracted behaviors to write test cases efficiently.
+- Protocol Drivers translate abstract actions into real system interactions, isolating system-specific details.
+- This separation enables reuse of tests across different interfaces and scenarios.
+- Internal DSLs (e.g., in Java) are preferred but external DSLs like Gherkin can also be used.
+- Example used: Buying a book from Amazon demonstrating this layered, abstract testing approach.
+- The method helps keep acceptance tests stable and focused despite system evolution.
+- A free guide and GitHub examples are available to learn more.
