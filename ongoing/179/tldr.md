@@ -1,0 +1,10 @@
+- Acceptance tests are written from the perspective of an external user, focusing on what the system should do, not how.
+- Fragility of acceptance tests often arises due to changes in system behavior, necessitating separation of concerns.
+- The proposed solution is a four-layer architecture: Test Cases, DSL, Protocol Drivers, and System Under Test.
+- Test Cases describe user behavior in domain language without implementation details.
+- The DSL layer provides reusable methods to express test scenarios abstractly and precisely.
+- Protocol Drivers translate domain-level instructions into real interactions with the system (e.g., UI or API calls).
+- This separation allows test cases to remain stable despite system code changes.
+- The approach supports various implementation styles including internal DSLs and external DSLs like Cucumber or SpecFlow.
+- The method has been proven effective in complex environments and supports reuse and rapid test writing.
+- A free guide and example code are available from the author to assist with acceptance testing implementation.
