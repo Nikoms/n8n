@@ -1,0 +1,12 @@
+- Ethan Evans was fired twice early in his career due to being abrasive and confrontational, which he later changed by improving his soft skills and relationship management.
+- He rose to VP at Amazon by taking strategic risks, working on high-judgment projects, and politely pushing for promotions.
+- Amazon's performance management includes forced attrition targets and PIPs, which are often ineffective and psychologically biased.
+- Managers have significant control over employee performance narratives, and HR does not always protect employees from unfair treatment.
+- Working in high-growth companies like Amazon served as an escalating career ladder, amplifying opportunities.
+- Building reputation, relationships, and soft skills are crucial for career advancement, even for introverts.
+- Amazon's leadership styles differ: Jeff Bezos takes bold founder risks, while Andy Jassy has a more traditional business leadership approach.
+- Integration of Twitch involved challenges such as aligning with a younger founder's culture and driving profitability in a venture-funded mindset.
+- Promotion processes at Amazon are formal and can be influenced by who advocates for you and whether you create indispensable impact.
+- Setting ambitious but achievable goals can be challenging in large companies, sometimes leading to meeting goals that do not fulfill the vision.
+- Transparency in managing career development and knowing promotion processes are critical, as shown by the example of a missed promotion for a high performer due to ignorance of timing and process.
+
