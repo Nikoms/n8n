@@ -1,6 +1,5 @@
 # How to Write Acceptance Tests
-![thumbnail](https://i.ytimg.com/vi/JDD5EEJgpHU/maxresdefault.jpg)
-[https://youtu.be/JDD5EEJgpHU?si=KlxjA9eN_PlU_1fD](https://youtu.be/JDD5EEJgpHU?si=KlxjA9eN_PlU_1fD)
+[<img src="https://i.ytimg.com/vi/JDD5EEJgpHU/maxresdefault.jpg" />]((https://youtu.be/JDD5EEJgpHU?si=KlxjA9eN_PlU_1fD))
 
 <!--- My thoughts -->
 
