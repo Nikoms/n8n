@@ -1,0 +1,14 @@
+- La Asus ROG Ally est un PC Windows dans un format console portable, pouvant servir de PC principal avec quelques adaptations.
+- Il est possible de connecter la ROG Ally à un écran externe via un hub USB-C, idéalement avec un chargeur USB-C PD 100W pour une alimentation optimale.
+- La machine supporte bien le jeu local, notamment avec des périphériques Bluetooth comme manette, clavier et souris.
+- Le montage vidéo en 1080p est faisable avec un temps de rendu raisonnable, malgré une puissance limitée par rapport à des PC traditionnels.
+- Brancher la ROG Ally à une TV via HDMI est simple, mais il faut rester sur du 1080p ou 720p, la console ne gérant pas bien la 4K.
+- L'ergonomie Windows nécessite un clavier et une souris sans fil compatibles pour une gestion efficace en mode téléviseur.
+- Le cloud gaming est une alternative intéressante grâce à une bonne puce WiFi et une connexion stable.
+- Le GPU externe XG Mobile avec une RTX 4090 mobile booste considérablement la puissance graphique, permettant de jouer en 4K confortablement.
+- Le câble du XG Mobile est massif et court, le boîtier est bruyant et chauffe beaucoup, nécessitant une bonne ventilation.
+- La gestion de la carte RTX externe est fluide, avec un mode dédié qui évite les conflits avec la GPU interne.
+- Le CPU Ryzen Z1 Extreme est bon pour la majorité des jeux, mais peut être un goulot d'étranglement sur certains genres comme les RTS.
+- Le setup complet (écran externe, XG Mobile, périphériques) peut coûter cher rapidement.
+- La vidéo invite à imaginer des setups personnalisés et ne se limite pas à la ROG Ally, applicable aussi à d'autres PC consoles portables.
+- Possibilité future d'installer SteamOS et de changer le SSD est évoquée comme prochaine étape de bidouille.
