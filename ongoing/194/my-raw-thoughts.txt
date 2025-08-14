@@ -8,3 +8,5 @@ Give me bullets points
 Quote : "Our highest priority is to satisfy the customer through early and continuous delivery of valuable software."
 
 Say something about strangling tree pattern explained here
+
+Also add a quote add the end : : "Our highest priority is to satisfy the customer through early and continuous delivery of valuable software."
