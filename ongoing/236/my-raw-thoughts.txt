@@ -1,1 +1,2 @@
  
+3 keys : Observabilty is first citizen. How easy it is to evolve. How easy can release and test it?
