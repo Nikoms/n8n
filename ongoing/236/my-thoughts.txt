@@ -1,1 +1,1 @@
- 
+The video highlights four frequently overlooked architectural characteristics: feasibility, observability, agility, and modularity. Observability is emphasized as a first-class citizen essential for measuring and understanding system behavior, not just an afterthought. Agility focuses on how quickly a system can evolve, be tested, and deployed, directly impacting time to market. Modularity supports this agility by breaking architecture into manageable, independent components, whether in distributed or monolithic systems.
