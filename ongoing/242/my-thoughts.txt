@@ -1,1 +1,1 @@
- 
+La vidéo montre clairement que GPT-5 peine à tenir ses promesses en front-end : il est lent, verbeux, et produit des résultats décevants malgré plusieurs itérations. Comparé à Cloud Code et Codex, qui sont plus rapides et mieux adaptés, GPT-5 ne parvient pas à fournir un design propre et fonctionnel efficacement. L’expérience de développement reste lourde et frustrante, ce qui rend GPT-5 difficile à recommander pour du développement frontend aujourd’hui.
