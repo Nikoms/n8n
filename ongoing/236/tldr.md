@@ -1,0 +1,6 @@
+- Frequently overlooked architectural characteristics include feasibility, observability, agility, and modularity.
+- Feasibility involves considering time, budget, team skill set, and experience constraints before designing solutions.
+- Observability is critical for measuring and tracking architectural goals and should be integrated early, not added later.
+- Agility refers to the ability to quickly respond to change, involving maintainability, testability, deployability, and evolvability.
+- Modularity is key for breaking functionality into manageable pieces and applies to both distributed and monolithic architectures.
+- These characteristics are often undervalued by junior architects despite their importance alongside operational characteristics like scalability and responsiveness.
