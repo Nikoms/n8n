@@ -1,8 +1,8 @@
-When to rewrite? Focus on these two key points:
+When to rewrite?
 
-- A rewrite should deliver clear user value throughout the process, not just at the end.
-- Incremental delivery is crucial—rewrite in small, manageable steps that allow continuous improvement and avoid an all-or-nothing risk.
+- Rewrite when it delivers new user value or addresses critical platform issues that prevent progress.
+- Prefer incremental rewrites, gradually replacing old components while maintaining functionality, following the "strangling tree" pattern—slowly phasing out legacy code by building around and then replacing it.
+- Avoid rewrites that halt feature delivery or create an all-or-nothing situation, as this risks losing market share to competitors.
+- Sometimes creating a new product or competing internally (as with Adobe Flash or VS Code examples) is a successful rewrite strategy.
 
-The strangling tree pattern is a useful approach here: gradually replace parts of the old system while keeping it running until the new system fully takes over.
-
-"Our highest priority is to satisfy the customer through early and continuous delivery of valuable software."
+Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
