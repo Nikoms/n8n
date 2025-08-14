@@ -1,0 +1,20 @@
+- Viele Entwickler sind unzufrieden bei der Arbeit, hauptsächlich wegen schlechter Codequalität.
+- Refaktorisierung ist unerlässlich, besonders bei von KI generiertem Code.
+- Große Rewrites gelten als riskant, können aber unter bestimmten Voraussetzungen erfolgreich sein.
+- Refaktorisierung ist klein und lokal, während Rewrites umfangreiche Neuerarchitekturen sind.
+- Die Design-Stina-Hypothese beschreibt den Trade-off zwischen Designinvestition und Entwicklungsgeschwindigkeit.
+- Erfolgreiche Startups haben oft Legacy-Code, da sie schnelle MVPs bevorzugen.
+- Technische Schulden entstehen oft durch Vernachlässigung und sollten inkrementell angegangen werden.
+- Rewrites scheitern häufig bei „Alles-oder-Nichts“-Ansatz ohne kontinuierlichen Geschäftswert.
+- Fallstudien zeigen erfolgreiche Rewrites durch inkrementelle Migration oder neue Produktentwicklung:
+  - Flash-Migration zu einem geschäftsorientierten Produkt
+  - Schrittweiser Ersatz von Import- und Workflowsystemen
+  - Entwicklung von VS Code als schlankes Produkt für einen neuen Markt
+  - Teilweiser Frontend-Umstieg für bessere UX
+- Erfolgreiche Strategien: Interne Konkurrenz schaffen oder inkrementell mit Kundenwert ersetzen.
+- Rewrites sollten nicht als solche verkauft werden, sondern als Feature-Entwicklung.
+- KI-Assistenz erleichtert, ersetzt aber nicht die Notwendigkeit von Refaktorisierung.
+- Agile Prinzipien wie kontinuierliche Wertlieferung sollten Rewrites leiten.
+- Audience-Fragen bestätigen, dass inkrementelle Wertschöpfung und Wettbewerbsdruck Erfolg fördern.
+- Motivation steigt durch messbare Verbesserungen der Entwicklererfahrung (z.B. Shopify).
+- Selbst ohne aktuellen Wettbewerb sollte man mit Konkurrenz rechnen.
