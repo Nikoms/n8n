@@ -1,0 +1,9 @@
+- Promotions are not based on working the hardest but on being seen as the next leader by decision makers.
+- Three strategic levers influence promotion: visibility, leadership signals, and strategic self-advocacy.
+- Visibility means being seen by the right people in the right contexts, not just letting work speak for itself.
+- Leadership signals are demonstrated by behaviors like mentoring, leading meetings, and thinking like a manager.
+- Strategic self-advocacy involves communicating goals and progress clearly and asking for stretch opportunities, not bragging.
+- High performance alone can make someone invisible if they are only excelling in their current role without signaling readiness for more.
+- To advance, one must shift from being just a performer to a promoter and owner of their career.
+- Practical steps include increasing visibility in meetings, signaling leadership through mentoring and projects, and advocating strategically with your manager.
+- Without these survival skills, talent alone will not lead to promotion in corporate environments.
