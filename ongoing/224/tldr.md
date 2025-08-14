@@ -1,0 +1,10 @@
+- Information overwhelm is a common problem from consuming vast amounts of content daily.
+- Building a second brain is a digital system for capturing, organising, distilling, and expressing ideas to handle information overload.
+- The 'CODE' framework stands for Capture, Organise, Distill, and Express.
+- Digital note-taking apps like Apple Notes or Notion enable efficient idea storage and retrieval.
+- Organising information by actionability (e.g., project-based) is more effective than organising by source/type.
+- Progressive summarization helps highlight the most important parts of notes.
+- Expressing knowledge through creation (videos, presentations, writing) is the ultimate goal of second brain.
+- The system enables slow burns on multiple projects, reducing stress and improving productivity and creativity.
+- Examples include preparing talks quickly and managing ongoing book or video projects.
+- Digital commonplace books build on historical practices but leverage technology for searchability and organisation.
