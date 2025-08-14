@@ -1,6 +1,8 @@
-When to rewrite?
+When to rewrite? Focus on these two key points:
 
-- Rewrites should focus on delivering customer value early and continuously, as per the Agile manifesto's highest priority.
-- It’s important to approach rewrites incrementally, replacing parts of the system step-by-step rather than all at once.
-- The strangling tree pattern is a useful strategy here: gradually growing new, improved parts around the old system until the legacy code can be fully replaced.
-- Doing rewrites without delivering value during the process risks losing market share and getting shut down, so always align rewrites with feature delivery or critical platform transitions.
+- A rewrite should deliver clear user value throughout the process, not just at the end.
+- Incremental delivery is crucial—rewrite in small, manageable steps that allow continuous improvement and avoid an all-or-nothing risk.
+
+The strangling tree pattern is a useful approach here: gradually replace parts of the old system while keeping it running until the new system fully takes over.
+
+"Our highest priority is to satisfy the customer through early and continuous delivery of valuable software."
