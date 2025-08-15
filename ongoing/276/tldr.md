@@ -1,0 +1,9 @@
+- Stack ranking and forced attrition create challenging company cultures but helping others builds a strong reputation that protects you.
+- Amazon behavioral interviews require telling good, relevant stories that demonstrate leadership and experience.
+- DJing and software development both require adapting to different roles and continuously learning.
+- Career paths include rest/invest, advancing to senior roles, management, startups, content creation, or early retirement.
+- Negotiation advice: no harm in asking for more, but emotional comfort is important.
+- To advocate for promotion, provide concrete evidence of next-level work, not just reputation.
+- Reapply to companies only after addressing reasons for previous rejection; consult recruiters for timelines.
+- Boomerang hires should maintain professionalism, be honest about reasons for leaving, and demonstrate growth since departure.
+- Brilliant.org offers interactive math, science, and CS courses highly recommended for deep learning, especially machine learning and quantum mechanics.
