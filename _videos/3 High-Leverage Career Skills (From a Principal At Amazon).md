@@ -1,6 +1,8 @@
 ---
 title: 3 High-Leverage Career Skills (From a Principal At Amazon)
 date: 2025-08-14
+category: videos
+tags: [career, principal engineer]
 ---
 
 # 3 High-Leverage Career Skills (From a Principal At Amazon)
