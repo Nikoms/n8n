@@ -1,12 +1,23 @@
-title: "Un p'tit Brol"
-description: Je teste mon nouvel ami
+title: n8n notes
+description: Mes posts en Markdown
 theme: minima
 
-include:
-  - _videos
-  - README.md
-#  - assets
-
+# Collection sans date dans le nom
 collections:
   videos:
     output: true
+    permalink: /videos/:name/
+
+# Inclure ce qu'il faut, exclure le reste
+include:
+  - _videos
+  - index.md
+  - videos.md
+  - assets
+
+exclude:
+  - ongoing
+  - README.md
+  - scripts
+  - node_modules
+  - vendor
