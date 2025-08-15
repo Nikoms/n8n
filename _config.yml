@@ -25,6 +25,11 @@ defaults:
       sidebar:
         nav: "videos_nav"
 
+include:
+  - _videos
+  - index.md
+  - videos.md
+
 # Nettoyage
 exclude:
   - ongoing
