@@ -1,0 +1,6 @@
+- Promotions are not meritocracies but processes that can be understood and optimized.
+- You must own and understand the promotion process at your company to avoid setbacks.
+- Tech promotions require demonstrating competence at the next level, not just current high performance.
+- Provide concrete evidence of operating at the next level rather than generic praise.
+- Write desired feedback for your reviewers to help them provide strong, specific endorsements.
+- Understanding and targeting the promotion criteria makes career growth less ambiguous and more achievable.
