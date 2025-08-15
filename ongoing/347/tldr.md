@@ -1,0 +1,10 @@
+- Companies often use down leveling to hedge against risk when there is ambiguity about candidate level.
+- Levels vary across companies and are relative; use tools like Levels.fyi and Glassdoor for research.
+- Down leveling usually happens due to weak behavioral interview performance despite technical skills or vice versa.
+- Effective storytelling in interviews is key—focus on showing how you meet the role's challenges using a clear story shape.
+- Avoid lying or exaggerating stories as interviewers will ask detailed follow-ups.
+- Use the "U-shaped" story model: anchor your role/status, present significant challenges, and show positive but realistic outcomes.
+- STAR method is useful for checking stories but not for creating them.
+- Never portray villains prominently; keep professionalism and end stories with a balanced success.
+- Being honest and aligning your stories with the expected level helps avoid unnecessary down leveling.
+- The goal is to come in at the right level to avoid long-term issues from mismatched expectations.
