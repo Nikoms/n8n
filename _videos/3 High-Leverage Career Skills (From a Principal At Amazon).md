@@ -5,7 +5,6 @@ category: videos
 tags: [career, principal engineer]
 ---
 
-# 3 High-Leverage Career Skills (From a Principal At Amazon)
 ![thumbnail](https://i.ytimg.com/vi/wc9gBBybgLw/maxresdefault.jpg)
 [https://youtu.be/wc9gBBybgLw?si=_fZhW3avtB9nxJdu](https://youtu.be/wc9gBBybgLw?si=_fZhW3avtB9nxJdu)
 
