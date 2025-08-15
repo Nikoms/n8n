@@ -1,0 +1,8 @@
+title: "Un p'tit Brol"
+description: Je teste mon nouvel ami
+theme: minima
+
+
+collections:
+  videos:
+    output: true
