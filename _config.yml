@@ -11,11 +11,11 @@ collections:
 # Inclure ce qu'il faut, exclure le reste
 include:
   - _videos
-  - README.md
   - index.md
   - assets
 
 exclude:
+  - README.md
   - ongoing
   - scripts
   - node_modules
