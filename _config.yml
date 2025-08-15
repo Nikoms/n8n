@@ -1,22 +1,31 @@
 title: n8n notes
-description: Mes posts en Markdown
-theme: minima
+url: "https://nikoms.github.io"
+baseurl: "/n8n"
 
-# Collection sans date dans le nom
+remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
+
+# Sidebar + recherche
+search: true
+lunr:
+  search_within_pages: true
+
+# Ta collection sans date dans le nom des fichiers
 collections:
   videos:
     output: true
     permalink: /videos/:name/
 
-# Inclure ce qu'il faut, exclure le reste
-include:
-  - _videos
-  - index.md
-  - assets
+# Appliquer layout + sidebar par défaut aux items de _videos
+defaults:
+  - scope: { path: "", type: videos }
+    values:
+      layout: single
+      sidebar:
+        nav: "videos_nav"
 
+# Nettoyage
 exclude:
-  - README.md
   - ongoing
-  - scripts
-  - node_modules
-  - vendor
+  - README.md

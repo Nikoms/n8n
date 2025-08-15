@@ -1,0 +1,9 @@
+main:
+  - title: "Vidéos"
+    url: /n8n/videos/
+
+videos_nav:
+  - title: "Toutes les vidéos"
+    url: /n8n/videos/
+  - title: "À propos"
+    url: /n8n/about/
