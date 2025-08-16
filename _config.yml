@@ -11,6 +11,10 @@ search: true
 lunr:
   search_within_pages: true
 
+navbar-links:
+  Videos: "/videos/"
+  About: "Videos I liked"
+
 # Ta collection sans date dans le nom des fichiers
 collections:
   videos:
