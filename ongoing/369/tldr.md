@@ -1,0 +1,7 @@
+- Architectural characteristics come from three main sources, especially the business domain.
+- Understanding the problem domain helps identify critical characteristics like performance, data integrity, and elasticity.
+- Business language often differs from architectural language, requiring architects to translate business needs into architectural qualities.
+- User satisfaction translates to multiple architectural characteristics including performance, agility, security, availability, fault tolerance, recoverability, and testability.
+- Time to market corresponds architecturally to maintainability, testability, and deployability.
+- Architects should document critical characteristics and collaborate with product teams using tools like an architectural characteristics worksheet.
+- Validating and getting buy-in on these characteristics is an ongoing communication process between architects and stakeholders.
