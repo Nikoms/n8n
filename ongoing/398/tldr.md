@@ -1,0 +1,6 @@
+- The difference between architecture and design is a spectrum, not a binary choice.
+- Criteria to differentiate include: structural aspect vs source code focus, strategic vs tactical nature, level of effort, and significance of trade-offs.
+- Architectural decisions often involve system structure, many people, high effort, and significant trade-offs.
+- Design decisions focus more on source code details, are tactical, require low effort, and have less significant trade-offs.
+- Examples: microservices are architectural; strategy design pattern use is design; breaking up a payment service lies in the middle but leans architectural.
+- Understanding this spectrum clarifies who should have decision responsibility (architect vs developer) and the impact of decisions on the system.
