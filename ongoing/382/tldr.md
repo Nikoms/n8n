@@ -1,0 +1,7 @@
+- Event-driven architecture distinguishes between events and messages.
+- Events represent something that has happened (past tense) and are usually broadcast via publish-subscribe channels.
+- Messages represent commands or queries, typically sent point-to-point via queues.
+- The ownership of event channels and contracts lies with the sender; for messages, with the receiver.
+- Events are ideal for broadcasting state changes to multiple consumers.
+- Messages are useful for controlling processing order and receiving asynchronous responses.
+- In complex flows, messaging can orchestrate sequential steps while events handle broad notifications.
