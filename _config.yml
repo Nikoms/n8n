@@ -2,7 +2,7 @@ title: 2nd Brain project
 url: "https://nikoms.github.io"
 baseurl: "/n8n"
 
-remote_theme: daattali/beautiful-jekyll
+remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
 
@@ -10,10 +10,6 @@ plugins:
 search: true
 lunr:
   search_within_pages: true
-
-navbar-links:
-  Videos: "/videos/"
-  About: "Videos I liked"
 
 # Ta collection sans date dans le nom des fichiers
 collections:
