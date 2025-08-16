@@ -2,7 +2,7 @@ title: 2nd Brain project
 url: "https://nikoms.github.io"
 baseurl: "/n8n"
 
-remote_theme: pages-themes/architect
+remote_theme: just-the-docs/just-the-docs
 plugins:
   - jekyll-include-cache
 
