@@ -1,1 +1,2 @@
  
+Use scenarios to know which decision to take
