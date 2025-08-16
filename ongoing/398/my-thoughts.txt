@@ -1,1 +1,1 @@
-M�-
+Très bonne vidéo. Elle explique clairement que la différence entre architecture et design n’est pas binaire, mais un spectre de décisions, allant des choix structurels et stratégiques aux détails tactiques du code. Le cadre proposé, basé sur la portée, l’effort, la stratégie et l’impact des compromis, est un excellent outil pour savoir qui doit prendre chaque décision. Utile pour clarifier responsabilités et impact dans un projet logiciel.
