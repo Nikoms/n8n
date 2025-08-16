@@ -14,7 +14,8 @@ excerpt: Mark Richards discusses how to identify and translate critical architec
 The video highlights the critical skill architects need to translate business stakeholder language into architectural characteristics like fault tolerance, availability, and performance. It emphasizes that a single business need often maps to multiple architecture requirements, illustrating this with examples such as user satisfaction translating into performance, security, and testability. This translation process helps ensure alignment between business goals and architectural decisions.
 ### Highlights
 
-![2025-08-16T13:48:48.662+02:00-AQADscoxG5xPCFF9----Document that can help.jpg](https://raw.githubusercontent.com/Nikoms/n8n/main/ongoing/369/photos/2025-08-16T13:48:48.662+02:00-AQADscoxG5xPCFF9----Document that can help.jpg)
+
+![Document that can help](https://raw.githubusercontent.com/Nikoms/n8n/main/ongoing/369/photos/2025-08-16T13:48:48.662+02:00-AQADscoxG5xPCFF9----Document%20that%20can%20help.jpg)
 
 
 
