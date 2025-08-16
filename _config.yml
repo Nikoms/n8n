@@ -2,7 +2,7 @@ title: n8n notes
 url: "https://nikoms.github.io"
 baseurl: "/n8n"
 
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: pages-themes/architect
 plugins:
   - jekyll-include-cache
 
