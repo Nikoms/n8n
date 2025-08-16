@@ -5,6 +5,13 @@ baseurl: "/n8n"
 remote_theme: mmistakes/minimal-mistakes
 plugins:
   - jekyll-include-cache
+  - jekyll-feed
+
+# Configure the feed
+feed:
+  collections:
+    - videos
+  excerpt_only: true
 
 # Sidebar + recherche
 search: true
