@@ -1,1 +1,1 @@
-Not specified (yet)
+The video highlights the importance of using specific scenarios to analyze architectural trade-offs effectively. By examining different use cases—such as frequent updates, adding new features, or handling multiple payment methods—architects can identify the impact on maintainability, testability, deployability, performance, and data consistency. This scenario-based approach helps align architectural decisions with business drivers like time to market, ensuring the chosen solution supports key priorities.
