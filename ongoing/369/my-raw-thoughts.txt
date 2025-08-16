@@ -1,1 +1,2 @@
  
+Architect needs to have a translation skill to translate stakeholder needs to architecture requirements like fault tolerance, availability, etc… One business need can be translated in multiple architecture characteristics
