@@ -1,0 +1,7 @@
+- Architecture and design exist on a spectrum, not a binary distinction.
+- Criteria to differentiate include structural impact, strategic vs tactical nature, effort required, and significance of trade-offs.
+- Architectural decisions involve system structure, are strategic, high effort, and have significant trade-offs.
+- Design decisions focus on source code organization, are tactical, low effort, with less significant trade-offs.
+- Responsibility for decisions depends on where they fall on this spectrum—architects handle architectural ones, developers handle design ones, with collaboration.
+- Example: Choosing microservices is architectural; using strategy design pattern is design; breaking payment service into smaller services falls in between.
+- Understanding these differences helps clarify responsibility and impact of decisions.
