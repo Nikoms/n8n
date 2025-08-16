@@ -1,0 +1,10 @@
+- Software architecture involves constant trade-offs.
+- Analyze trade-offs by linking business drivers to architectural characteristics.
+- Example business driver: time to market, linked to maintainability, testability, deployability.
+- Scenario 1: Single payment service risks larger testing scope and deployment risk; separate services reduce these.
+- Scenario 2: Adding new payment types is easier with separate services (extensibility).
+- Scenario 3: Users using multiple payment types better handled by a single service for performance and consistency.
+- Trade-offs boil down to prioritizing performance and consistency vs. maintainability and extensibility.
+- Decision depends on business needs; in the example, separate services fit business drivers better.
+- Modern trade-off analysis requires understanding business drivers and corresponding architectural features.
+- Future lessons will explore trade-off analysis in other architectural decisions.
