@@ -1,1 +1,1 @@
-Not specified (yet)
+The video explains that ownership of the channel and contract differs between events and messages: for events, the sender owns and controls the channel and the contract since they are broadcasting something that has already happened. For messages, the receiver owns the channel and the contract, requiring senders to conform to the receiver’s requirements. This distinction is key to understanding how communication flows in event-driven architecture.
