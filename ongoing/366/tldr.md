@@ -1,0 +1,7 @@
+- Architectural characteristics critical to a system come from three main sources: the business domain, requirements, and listening to the business.
+- Business domain understanding helps identify key characteristics such as low latency for stock trading or elasticity for customer scaling.
+- Architectural characteristics often translate from business language to architecture language, requiring a 'translation engine' skill.
+- User satisfaction, for example, translates to multiple characteristics like performance, agility, security, availability, fault tolerance, recoverability, and testability.
+- Time to Market translates architecturally to maintainability, testability, and deployability.
+- Using an architectural characteristics worksheet helps document and communicate these critical characteristics collaboratively with product teams.
+- Validating and gaining buy-in on these characteristics is essential through ongoing communication and feedback.
