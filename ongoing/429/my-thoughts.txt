@@ -1,1 +1,1 @@
-Not specified (yet)
+In the video, starting with the assertion in a test is highlighted as a valuable practice because it forces you to clarify exactly what outcome you want to achieve before writing the rest of the test. This approach helps you think backward through the test design, improving focus and ensuring the test drives the development and design effectively. Writing the test this way supports the TDD discipline of small, incremental steps with clear feedback, which ultimately leads to better software design.
