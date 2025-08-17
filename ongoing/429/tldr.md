@@ -1,0 +1,11 @@
+- Test-driven development (TDD) involves writing a failing test before implementation, then coding just enough to pass it, followed by refactoring.
+- TDD drives better software design by focusing on external interface when writing tests and internal design during refactoring.
+- Testability is closely tied to good design principles like modularity, cohesion, separation of concerns, and loose coupling.
+- TDD is a skilled practice that helps teach design; learning it improves software design abilities even for expert programmers.
+- Writing tests first is critical; writing tests after implementation reduces the value of TDD.
+- The feedback cycle of TDD provides confidence and safety in small incremental development steps.
+- Approval testing has value in legacy/code characterization but differs from canonical TDD due to delayed assertion definition.
+- TDD helps clarify what software should achieve before implementation, improving focus and specification.
+- Teaching tips include writing the test assertion first in comments to clarify design before coding.
+- Mastering TDD takes weeks for core skills but developing strong design skills through it is a lifelong journey.
+- Wider adoption of TDD would improve software quality, flexibility, and maintainability aligned with business needs.
