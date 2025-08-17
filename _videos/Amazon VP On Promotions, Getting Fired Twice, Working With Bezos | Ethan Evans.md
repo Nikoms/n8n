@@ -1,4 +1,10 @@
-# Amazon VP On Promotions, Getting Fired Twice, Working With Bezos | Ethan Evans
+---
+title: Amazon VP On Promotions, Getting Fired Twice, Working With Bezos | Ethan Evans
+date: 2025-08-10
+category: videos
+tags: [career, vp]
+---
+
 ![thumbnail](https://i.ytimg.com/vi/40-ENZmqcz0/maxresdefault.jpg)
 
 ## My thoughts
