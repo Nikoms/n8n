@@ -1,1 +1,2 @@
  
+In a test, start with the « assert » part
