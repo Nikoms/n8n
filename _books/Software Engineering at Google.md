@@ -1,6 +1,6 @@
 ---
 title: Software Engineering at Google
-date: 2025-08-18T14:05:32.133+02:00
+date: 2025-08-18T14:06:01.948+02:00
 category: books
 tags: []
 excerpt: My highlights
@@ -9,6 +9,12 @@ excerpt: My highlights
 ## Page 495
 
 > Many software engineers are attracted to the task of building and launching new systems, not maintaining existing ones.
+
+
+----
+## Page 500
+
+> “hope is not a strategy.”
 
 
 ----
