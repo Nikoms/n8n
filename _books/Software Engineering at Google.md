@@ -1,14 +1,20 @@
 ---
 title: Software Engineering at Google
-date: 2025-08-18T14:48:24.506+02:00
+date: 2025-08-18T15:15:47.526+02:00
 category: books
 tags: []
 excerpt: My highlights
 ---
 
+## Page 479
+
+> apply, it is still critical to integrate larger tests into the developer workflow.
+
+
+----
 ## Page 482
 
-> machine (or at least a cluster of colocated machines). If there are hardcoded timeouts or (especially) sleep statements in the production code to account for production system delay, these should be made tunable and reduced when running tests.
+> If there are hardcoded timeouts or (especially) sleep statements in the production code to account for production system delay, these should be made tunable and reduced when running tests.
 
 
 ----
