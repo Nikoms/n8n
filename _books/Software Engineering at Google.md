@@ -1,6 +1,6 @@
 ---
 title: Software Engineering at Google
-date: 2025-08-18T14:03:58.324+02:00
+date: 2025-08-18T14:05:28.571+02:00
 category: books
 tags: []
 excerpt: My highlights
@@ -9,6 +9,12 @@ excerpt: My highlights
 ## Page 495
 
 > Many software engineers are attracted to the task of building and launching new systems, not maintaining existing ones.
+
+
+----
+## Page 502
+
+> We’ve learned at Google that without explicit owners, a deprecation process is unlikely to make meaningful progress, no matter how many warnings and alerts a system might generate.
 
 
 ----
