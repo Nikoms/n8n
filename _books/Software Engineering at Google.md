@@ -1,6 +1,6 @@
 ---
 title: Software Engineering at Google
-date: 2025-08-18T15:17:17.875+02:00
+date: 2025-08-18T15:17:18.874+02:00
 category: books
 tags: []
 excerpt: My highlights
