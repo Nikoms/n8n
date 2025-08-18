@@ -1,6 +1,6 @@
 ---
 title: Software Engineering at Google
-date: 2025-08-18T15:15:55.729+02:00
+date: 2025-08-18T15:17:17.004+02:00
 category: books
 tags: []
 excerpt: My highlights
@@ -9,6 +9,12 @@ excerpt: My highlights
 ## Page 479
 
 > apply, it is still critical to integrate larger tests into the developer workflow.
+
+
+----
+## Page 479
+
+> Although standard unit test infrastructure might not apply, it is still critical to integrate larger tests into the developer workflow.
 
 
 ----
