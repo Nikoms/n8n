@@ -1,14 +1,14 @@
 ---
 title: Software Engineering at Google
-date: 2025-08-18T14:14:06.833+02:00
+date: 2025-08-18T14:37:57.120+02:00
 category: books
 tags: []
 excerpt: My highlights
 ---
 
-## Page unknown
+## Page 494
 
-> staffing a team and spending time removing obsolete systems costs real money, whereas the costs of doing nothing and letting the system lumber along unattended are not readily observable.
+> funding and executing deprecation efforts can be difficult politically; staffing a team and spending time removing obsolete systems costs real money
 
 
 ----
