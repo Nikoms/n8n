@@ -1,7 +1,5 @@
 main:
   - title: "Vidéos"
     url: /videos/
-
-videos_nav:
-  - title: "Toutes les vidéos"
-    url: /videos/
+  - title: "Books"
+    url: /books/
