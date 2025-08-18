@@ -1,11 +1,17 @@
 ---
 title: Software Engineering at Google
-date: 2025-08-18T14:06:06.387+02:00
+date: 2025-08-18T14:07:04.804+02:00
 category: books
 tags: []
 excerpt: My highlights
 ---
 
+## Page unknown
+
+> staffing a team and spending time removing obsolete systems costs real money
+
+
+----
 ## Page 495
 
 > Many software engineers are attracted to the task of building and launching new systems, not maintaining existing ones.
