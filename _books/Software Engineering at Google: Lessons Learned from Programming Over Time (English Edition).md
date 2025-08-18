@@ -1,6 +1,6 @@
 ---
 title: Software Engineering at Google: Lessons Learned from Programming Over Time (English Edition)
-date: 2025-08-18T20:13:44.383+02:00
+date: 2025-08-18T20:13:45.331+02:00
 category: books
 tags: []
 excerpt: My highlights
