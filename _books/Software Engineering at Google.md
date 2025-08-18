@@ -1,6 +1,6 @@
 ---
 title: Software Engineering at Google
-date: 2025-08-18T12:20:23.976+02:00
+date: 2025-08-18T12:20:35.192+02:00
 category: books
 tags: []
 excerpt: My highlights
@@ -11,6 +11,6 @@ excerpt: My highlights
 >Finally, we treat our global test suite as an oracle to determine whether all references to an old symbol have been removed.
 
 
-
+----
 > TEST
 
