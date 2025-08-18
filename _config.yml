@@ -33,13 +33,9 @@ defaults:
   - scope: { path: "", type: videos }
     values:
       layout: single
-      sidebar:
-        nav: "nav"
   - scope: { path: "", type: books }
     values:
       layout: single
-      sidebar:
-        nav: "nav"
 
 include:
   - _videos
