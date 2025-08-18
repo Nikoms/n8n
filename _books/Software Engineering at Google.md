@@ -1,20 +1,28 @@
 ---
 title: Software Engineering at Google
-date: 2025-08-18T14:41:52.844+02:00
+date: 2025-08-18T14:43:02.863+02:00
 category: books
 tags: []
 excerpt: My highlights
 ---
 
-## Page 492
+## Page 482
 
-> the more users of a system, the higher the probability that users are using it in unexpected and unforeseen ways, and the harder it will be to deprecate and remove such a system.
+> Lower internal system timeouts and delays
+>
+>A production system is usually configured assuming
+>a distributed deployment topology, but an SUT might
+>be deployed on a single machine (or at least a cluster of
+>colocated machines). If there are hardcoded timeouts
+>or (especially) sleep statements in the production code
+>to account for production system delay, these should
+>be made tunable and reduced when running tests.
 
 
 ----
-## Page 493
+## Page 492
 
-> If there are hardcoded timeouts or (especially) sleep statements in the production code to account for production system delay, these should be made tunable and reduced when running tests.
+> the more users of a system, the higher the probability that users are using it in unexpected and unforeseen ways, and the harder it will be to deprecate and remove such a system.
 
 
 ----
