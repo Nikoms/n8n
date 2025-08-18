@@ -11,6 +11,7 @@ plugins:
 feed:
   collections:
     - videos
+    - books
   excerpt_only: true
 
 # Sidebar + recherche
@@ -23,6 +24,9 @@ collections:
   videos:
     output: true
     permalink: /videos/:name/
+  books:
+    output: true
+    permalink: /books/:name/
 
 # Appliquer layout + sidebar par défaut aux items de _videos
 defaults:
@@ -34,8 +38,10 @@ defaults:
 
 include:
   - _videos
-  - index.md
   - videos.md
+  - index.md
+  - _books
+  - books.md
 
 # Nettoyage
 exclude:
