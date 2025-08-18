@@ -1,6 +1,6 @@
 ---
 title: Software Engineering at Google
-date: 2025-08-18T14:07:09.841+02:00
+date: 2025-08-18T14:14:00.916+02:00
 category: books
 tags: []
 excerpt: My highlights
@@ -8,7 +8,7 @@ excerpt: My highlights
 
 ## Page unknown
 
-> staffing a team and spending time removing obsolete systems costs real money
+> staffing a team and spending time removing obsolete systems costs real money, whereas the costs of doing nothing and letting the system lumber along unattended are not readily observable.
 
 
 ----
