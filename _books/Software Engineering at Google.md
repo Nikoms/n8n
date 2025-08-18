@@ -1,6 +1,6 @@
 ---
 title: Software Engineering at Google
-date: 2025-08-18T14:03:51.530+02:00
+date: 2025-08-18T14:03:55.750+02:00
 category: books
 tags: []
 excerpt: My highlights
@@ -21,4 +21,10 @@ excerpt: My highlights
 ## Page 505
 
 > To prevent deprecation backsliding on a micro level, we use the Tricorder static analysis framework to notify
+
+
+----
+## Page 506
+
+> users that they are adding calls into a deprecated system and give them feedback on the appropriate replacement.
 
