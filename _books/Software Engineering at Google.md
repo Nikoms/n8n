@@ -1,6 +1,6 @@
 ---
 title: Software Engineering at Google
-date: 2025-08-18T14:39:55.218+02:00
+date: 2025-08-18T14:41:45.311+02:00
 category: books
 tags: []
 excerpt: My highlights
@@ -9,6 +9,12 @@ excerpt: My highlights
 ## Page 492
 
 > the more users of a system, the higher the probability that users are using it in unexpected and unforeseen ways, and the harder it will be to deprecate and remove such a system.
+
+
+----
+## Page 493
+
+> If there are hardcoded timeouts or (especially) sleep statements in the production code to account for production system delay, these should be made tunable and reduced when running tests.
 
 
 ----
