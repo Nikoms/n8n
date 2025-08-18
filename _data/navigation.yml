@@ -3,3 +3,9 @@ main:
     url: /videos/
   - title: "Books"
     url: /books/
+
+nav:
+  - title: "Toutes les vidéos"
+    url: /videos/
+  - title: "Toutes les livres"
+    url: /books/

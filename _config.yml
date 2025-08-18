@@ -28,6 +28,19 @@ collections:
     output: true
     permalink: /books/:name/
 
+# Appliquer layout + sidebar par défaut aux items de _videos
+defaults:
+  - scope: { path: "", type: videos }
+    values:
+      layout: single
+      sidebar:
+        nav: "nav"
+  - scope: { path: "", type: books }
+    values:
+      layout: single
+      sidebar:
+        nav: "nav"
+
 include:
   - _videos
   - videos.md
