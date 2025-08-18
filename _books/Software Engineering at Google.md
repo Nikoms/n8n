@@ -1,11 +1,17 @@
 ---
 title: Software Engineering at Google
-date: 2025-08-18T14:38:02.496+02:00
+date: 2025-08-18T14:39:48.896+02:00
 category: books
 tags: []
 excerpt: My highlights
 ---
 
+## Page 492
+
+> the more users of a system, the higher the probability that users are using it in unexpected and unforeseen ways, and the harder it will be to deprecate and remove such a system.
+
+
+----
 ## Page 494
 
 > funding and executing deprecation efforts can be difficult politically; staffing a team and spending time removing obsolete systems costs real money
