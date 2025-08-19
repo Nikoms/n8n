@@ -1,0 +1,7 @@
+- Promotions are not meritocracy but a process that can be optimized.
+- Understand the promotion criteria and process within your company.
+- High performance at the current level is not enough; demonstrate competence at the next level.
+- Gather concrete evidence to document your capability at the next level.
+- Write or help write specific, factual feedback highlighting your contributions and impact.
+- Actively manage your career growth and promotion efforts.
+- Use structured approaches to promotion to navigate difficult periods successfully.
