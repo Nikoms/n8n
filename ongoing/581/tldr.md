@@ -1,0 +1,11 @@
+- In 2023, 250,000 tech layoffs occurred; in early 2024, 50,000 more layoffs have happened.
+- Low performers and junior staff are laid off first; senior engineers are now essentially junior roles.
+- Quickly moving from junior to senior engineer is crucial for job security.
+- The relationship with your manager is the most important factor for promotion.
+- If your manager is unsupportive or incompetent, find a new manager or job.
+- Choose promotion projects aligned with company needs and values, not just impactful-sounding ones.
+- Balance efforts between current role responsibilities and next level projects to avoid poor performance reviews.
+- Focus on efficient work to maintain current expectations while taking on higher-level tasks.
+- Promotion beyond senior levels often involves multi-team projects requiring cross-functional collaboration.
+- Developing judgment about impact vs. effort is key to selecting effective promotion work.
+- Author shares personal experiences illustrating how managers greatly influence promotion timelines.
