@@ -1,8 +1,0 @@
-- Preparing for interviews while working full-time is like having a second full-time job.
-- Focus on targeted preparation: identify weaknesses and don't try to cover everything.
-- Use time efficiently by combining interview prep with other activities, e.g., listening to audiobooks.
-- Leverage work activities that intersect with interview topics.
-- Use right-to-left planning by working backward from your interview date for effective preparation.
-- Schedule mock interviews or interviews at less competitive companies to gauge readiness.
-- Allocate 5-10% of your total prep time specifically for planning your study schedule.
-- Behavioral interviews are critical and can impact job offers significantly.
