@@ -1,1 +1,6 @@
-The video explains that the difference between architecture and design lies on a spectrum rather than a strict boundary. To determine where a decision falls, consider these criteria: whether the decision involves the structural aspects of the system or just source code; if it is strategic (involving many people and longer timelines) or tactical (quick, small group decisions); the level of effort required; and the significance of the trade-offs involved. These factors help clarify who should be responsible for the decision and its overall impact on the system.
+The video outlines four key criteria to differentiate between architecture and design decisions:
+
+- Whether the decision involves structural aspects of the system (such as component organization, deployment units, and communication) or just source code.
+- Whether the decision is strategic (involving many people and taking weeks or months) or tactical (quick decisions by few people).
+- The level of effort required, with higher effort decisions leaning more towards architecture.
+- The significance of trade-offs, where more impactful pros and cons indicate architectural decisions and less significant ones indicate design decisions.
