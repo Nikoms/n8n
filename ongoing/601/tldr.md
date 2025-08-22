@@ -1,0 +1,7 @@
+- The difference between architecture and design is a spectrum, not binary.
+- Criteria to determine a decision's place on the spectrum: structural aspect, strategic vs tactical, level of effort, and significance of trade-offs.
+- Architectural decisions involve system structure, strategic planning, high effort, and significant trade-offs.
+- Design decisions focus on source code organization, are tactical, low effort, and have less significant trade-offs.
+- Responsibility for decisions varies: architects handle more strategic and impactful architectural decisions, developers handle tactical design decisions.
+- Many decisions fall between the two extremes, combining architectural and design elements.
+- Using criteria helps clarify who should ultimately be responsible for decisions and clarifies the impact on the system.
