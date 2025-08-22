@@ -1,0 +1,10 @@
+- The 9th fallacy of distributed computing is that versioning is simple.
+- Even basic microservices ecosystems involve multiple artifacts requiring versioning: API endpoints, contracts (e.g., JSON or XML schemas), services, and shared libraries.
+- Managing versions across these artifacts can become extremely complex and confusing.
+- Example given is a trading app posting buy orders for stock, where the representation of a stock (Apple) can vary (symbol, QSIP, SEDOL).
+- Changing contract versions without proper versioning breaks clients relying on the old versions.
+- Versioning the API endpoints alone creates duplication; a better approach is versioning at the contract level using request headers and vendor MIME types.
+- Implementing versioning logic in services adds complexity, such as conditional handling of different contract versions.
+- Supporting multiple versions eventually becomes unsustainable as older versions may be deprecated.
+- Communication about version changes and deprecations across teams adds layers of complexity beyond technical challenges.
+- Versioning requires careful governance, communication, and strategy—it's not as simple as it seems.
