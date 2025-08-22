@@ -1,0 +1,10 @@
+- The best way to pass an Amazon interview is to be genuinely skilled and know how to answer questions well.
+- Knowing and understanding Amazon's leadership principles (LPs) helps but is secondary to genuine skill.
+- "Leaders are Right A Lot" is often misunderstood in hierarchical cultures as blind obedience rather than encouraging leaders to do the work and be right.
+- Many LPs have common misconceptions or 'degenerate cases,' like frugality being mistaken for saying no to all expenses.
+- "Disagree and Commit" involves a three-step process: disagree openly, back your stance with data, then commit fully once a decision is made.
+- Effective disagreement is expected, particularly with peers over priorities and upward to leadership.
+- LPs can conflict or be weaponized; leaders should navigate these tensions thoughtfully.
+- Interview success stems from answering behavioral questions authentically and demonstrating leadership through past experiences.
+- Leadership principles push leaders to think beyond their narrow roles and take ownership for broad business success.
+- Confidence and authenticity in interviews are more impactful than mechanical LP answers.
