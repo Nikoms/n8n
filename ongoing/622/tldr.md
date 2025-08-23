@@ -1,0 +1,7 @@
+- Software has two key values: what it does (functionality) and its structure.
+- Programmers often focus only on functionality and meeting current requirements.
+- The structure, or flexibility to change, is arguably more valuable.
+- Software must be changeable because requirements evolve; otherwise, it becomes worthless.
+- Low cost of modification is crucial for ongoing adaptability.
+- Maximizing functionality today at the expense of flexibility can lead to project failure.
+- Good software balances working functionality with a well-designed, adaptable structure.
