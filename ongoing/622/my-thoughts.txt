@@ -1,1 +1,1 @@
-Not specified (yet)
+The video explains that software has two fundamental values: what it does (the functionality) and how it is structured. A system that works but isn’t well-structured will be hard to evolve, while a system that may not work today but has a flexible structure is easier to adapt and fix over time. Since software by nature must change, its value lies more in its flexibility and maintainability than just in meeting current requirements. The “soft” in software highlights this need for flexibility and ongoing evolution.
