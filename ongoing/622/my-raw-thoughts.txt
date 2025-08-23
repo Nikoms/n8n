@@ -1,1 +1,14 @@
  
+Les 2 « valeurs » quand on fait un software
+
+    Ce que doit faire un software (what)
+    Le faire de manière structurée (how)
+
+Pourquoi?
+
+    Si tu fais un software qui marche mais pas structuré, tu vas avoir un problème à le faire évoluer
+    Si tu fais un software qui marche pas mais qui est structuré, tu vas avoir plus facile à le faire marcher
+
+CQFD!
+
+D’ailleurs « soft » veut bien dire ce que ca veut dire: « Soft » pour flexible et donc qui va, indéniablement, évoluer avec le temps.
