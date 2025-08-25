@@ -1,0 +1,13 @@
+- Interviewing at big tech involves not just coding and system design skills but also strong behavioral fit and cultural alignment.
+- Networking and preparedness are crucial opportunities for entry into big tech, especially without a traditional CS degree.
+- Behavioral interviews have significant weight; poor behavioral answers can lead to rejections even if technical skills are good.
+- Success at Amazon requires independence at junior levels, ownership at mid-level, and the ability to deliver large scope cross-functional impact at principal level.
+- Amazon has an intense performance culture with stack ranking and managing out low performers, typically around 5-6% annually.
+- Good Amazon managers are principle-based and think long-term, while bad managers may be overly delivery-focused or lacking leadership qualities.
+- Choosing one technical area and going deep is better than broad shallow skills for standing out in job hunting.
+- AI tools amplify engineers but do not replace senior-level work; zero to one and scaling still need human expertise.
+- Promotion to principal is hard because it requires demonstrating impact across multiple teams and balancing coding with leadership.
+- Career advice includes proactive communication with managers, early feedback seeking, and making deliberate career decisions rather than inertia.
+- Amazon culture emphasizes customer obsession and a strong writing and reading culture.
+- The biggest career regret is not recognizing a bad situation early enough and deciding deliberately whether to stay or leave.
+- Pleasing oneself rather than others is vital for career satisfaction and direction.
