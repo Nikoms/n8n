@@ -1,4 +1,10 @@
-# Don't Get Down-Leveled or How to Tell a Good Story (From a Principal at Amazon)
+---
+title: Don't Get Down-Leveled or How to Tell a Good Story (From a Principal at Amazon)
+date: 2025-08-10
+category: videos
+tags: [interview]
+---
+
 ![thumbnail](https://i.ytimg.com/vi/hU6BVxtGd5g/default.jpg)
 [https://youtu.be/hU6BVxtGd5g?si=vs9u3OFV067qNtOg](https://youtu.be/hU6BVxtGd5g?si=vs9u3OFV067qNtOg)
 
