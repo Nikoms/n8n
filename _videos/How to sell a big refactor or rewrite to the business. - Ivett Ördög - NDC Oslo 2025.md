@@ -1,4 +1,10 @@
-# How to sell a big refactor or rewrite to the business? - Ivett Ördög - NDC Oslo 2025
+---
+title: How to sell a big refactor or rewrite to the business? - Ivett Ördög - NDC Oslo 2025
+date: 2025-08-09
+category: videos
+tags: [refactoring, ndc]
+---
+
 ![thumbnail](https://i.ytimg.com/vi/wdz90PQ2Ak4/maxresdefault.jpg)
 [https://youtu.be/wdz90PQ2Ak4?si=4Gz3VnLq4olwP5r_](https://youtu.be/wdz90PQ2Ak4?si=4Gz3VnLq4olwP5r_)
 
@@ -14,88 +20,87 @@ When to rewrite?
 Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.
 
 ## TLDR;
-- Viele Entwickler sind unzufrieden bei der Arbeit, hauptsächlich wegen schlechter Codequalität.
-- Refaktorisierung ist unerlässlich, besonders bei von KI generiertem Code.
-- Große Rewrites gelten als riskant, können aber unter bestimmten Voraussetzungen erfolgreich sein.
-- Refaktorisierung ist klein und lokal, während Rewrites umfangreiche Neuerarchitekturen sind.
-- Die Design-Stina-Hypothese beschreibt den Trade-off zwischen Designinvestition und Entwicklungsgeschwindigkeit.
-- Erfolgreiche Startups haben oft Legacy-Code, da sie schnelle MVPs bevorzugen.
-- Technische Schulden entstehen oft durch Vernachlässigung und sollten inkrementell angegangen werden.
-- Rewrites scheitern häufig bei „Alles-oder-Nichts“-Ansatz ohne kontinuierlichen Geschäftswert.
-- Fallstudien zeigen erfolgreiche Rewrites durch inkrementelle Migration oder neue Produktentwicklung:
-  - Flash-Migration zu einem geschäftsorientierten Produkt
-  - Schrittweiser Ersatz von Import- und Workflowsystemen
-  - Entwicklung von VS Code als schlankes Produkt für einen neuen Markt
-  - Teilweiser Frontend-Umstieg für bessere UX
-- Erfolgreiche Strategien: Interne Konkurrenz schaffen oder inkrementell mit Kundenwert ersetzen.
-- Rewrites sollten nicht als solche verkauft werden, sondern als Feature-Entwicklung.
-- KI-Assistenz erleichtert, ersetzt aber nicht die Notwendigkeit von Refaktorisierung.
-- Agile Prinzipien wie kontinuierliche Wertlieferung sollten Rewrites leiten.
-- Audience-Fragen bestätigen, dass inkrementelle Wertschöpfung und Wettbewerbsdruck Erfolg fördern.
-- Motivation steigt durch messbare Verbesserungen der Entwicklererfahrung (z.B. Shopify).
-- Selbst ohne aktuellen Wettbewerb sollte man mit Konkurrenz rechnen.
+- Many developers are unhappy at work, mainly due to poor code quality.  
+- Refactoring is essential, especially for AI-generated code.  
+- Large rewrites are considered risky but can succeed under certain conditions.  
+- Refactoring is small and local, while rewrites involve major re-architectures.  
+- The Design Stina Hypothesis describes the trade-off between design investment and development speed.  
+- Successful startups often have legacy code because they prioritize fast MVPs.  
+- Technical debt often comes from neglect and should be addressed incrementally.  
+- Rewrites often fail when approached as “all-or-nothing” without continuous business value.  
+- Case studies show successful rewrites through incremental migration or new product development:  
+  - Flash migration into a business-oriented product  
+  - Gradual replacement of import and workflow systems  
+  - Development of VS Code as a lean product for a new market  
+  - Partial frontend transition for improved UX  
+- Successful strategies: create internal competition or incrementally replace with customer value.  
+- Rewrites should not be sold as rewrites, but as feature development.  
+- AI assistance helps but does not replace the need for refactoring.  
+- Agile principles such as continuous value delivery should guide rewrites.  
+- Audience questions confirm that incremental value creation and competitive pressure foster success.  
+- Motivation increases through measurable improvements in developer experience (e.g. Shopify).  
+- Even without current competition, you should always assume it will come.  
 
+---
 
+## Content  
 
+### Introduction: Why talk about rewrites and refactoring?  
+I’m Evette, and I’m excited to talk today about a topic familiar to all developers: large rewrites and refactoring.  
 
-## Content
+> “Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.” – Agile Manifesto  
 
-### Einführung: Warum sprechen wir über Rewrites und Refaktorisierung?
-Ich bin Evette und freue mich, heute über ein Thema zu sprechen, das allen Entwicklern bekannt ist: große Rewrites und Refaktorisierungen.
+This principle should guide us when thinking about how to evolve code and products.  
 
-> „Our highest priority is to satisfy the customer through early and continuous delivery of valuable software.“ – Agile Manifesto
+### The Code Quality Crisis: Why are so many developers unhappy?  
+Studies such as those from Stack Overflow show that only about 20% of developers are satisfied, while about a third consider changing jobs. The main reason is poor code quality, which many find frustrating. Especially today, we see AI programs often generate hard-to-maintain code, making refactoring a crucial step to ensure quality.  
 
-Diese Zielsetzung ist der Leitfaden, wenn wir darüber nachdenken, wie wir Code und Produkte weiterentwickeln.
+> “The more AI-generated code there is, the higher the share of bugs and redundancies.” – Various studies  
 
-### Die Code-Qualitätskrise: Warum sind so viele Entwickler unglücklich?
-Studien, wie die von Stack Overflow, zeigen, dass nur etwa 20 % der Entwickler zufrieden sind, während etwa ein Drittel mit einem Jobwechsel liebäugelt. Hauptgrund ist die schlechte Codequalität, die viele als frustrierend empfinden. Besonders heute sehen wir, wie KI-Programme oft schwer wartbaren Code erzeugen, deshalb ist Refaktorisierung ein wichtiger Schritt, um Qualität sicherzustellen.
+### Refactoring versus Rewrite: What’s the difference?  
+- **Refactoring** means small, local improvements to code, often done quietly without big effort or announcements.  
+- **Rewrite** is the comprehensive recreation of a system without intentional behavior changes, usually risky and costly.  
 
-> „Je mehr KI-Code erzeugt wird, desto größer ist leider auch der Anteil an Bugs und Redundanzen.“ – Diverse Studien
+Rewrites are often viewed negatively—for example, Joski called the Netscape rewrite “the worst strategic mistake.” Yet many developers dream of rewrites, only to quickly learn how complex they are.  
 
-### Refactoring versus Rewrite: Was ist der Unterschied?
-- **Refactoring** bedeutet kleine, lokale Verbesserungen am Code, oft ohne große Aufwände oder Bekanntmachung.
-- **Rewrite** ist die umfassende Neuerstellung eines Systems ohne bewusst Verhaltensänderungen, oft risikoreich und aufwändig.
+### The Design Stina Hypothesis: Investment and Speed  
+Martin Fowler presented the hypothesis that too little design reduces productivity, while too much design slows early progress. Startups prioritize fast MVPs over perfect design, which explains why older systems often have legacy code.  
 
-Rewrites werden oft negativ bewertet, z.B. Joski bezeichnete den Netscape-Rewrite als „schlechtesten strategischen Fehler“. Trotzdem träumen viele Entwickler von Rewrites, lernen aber schnell, wie komplex diese sind.
+> “Technical Debt is often really Technical Neglect.” – Kevlin Henney  
 
-### Die Design Stina Hypothese: Investment und Geschwindigkeit
-Martin Fowler stellte die Hypothese vor, dass zu wenig Design die Produktivität senkt, aber zu viel Design anfangs den Fortschritt bremst. Startups bevorzugen schnelle MVPs vor perfektem Design, was alte Systeme mit Legacy-Code erklärt.
+This means that much technical debt arises from failing to do the necessary maintenance.  
 
-> „Technical Debt ist oft eigentlich Technical Neglect.“ – Kevlin Henney
+### Why are rewrites risky?  
+Rewrites are risky because they’re often run as “all-or-nothing” projects, during which no real customer value is delivered. This leaves room for competitors to move faster, leading to project failure.  
 
-Das bedeutet: Viele technische Schulden entstehen durch Nicht-Bezahlung der notwendigen Wartung.
+### Case Studies: Successful rewrites despite risks  
+- **Adobe Flash migration:** Instead of rewriting everything, they started with a minimal business product and expanded step by step.  
+- **Monolithic workflow systems:** Problematic code was replaced gradually, despite errors and challenges.  
+- **Daily data import:** For key customers, a 25-hour process was cut to 5 seconds, then rolled out incrementally.  
+- **Platform with external APIs:** New APIs and microservices were introduced gradually alongside refactoring.  
+- **VS Code:** Not a replacement for Visual Studio, but a new lean product for a new market, with major success.  
+- **Limp Poker frontend:** Old and new frontend components ran in parallel to minimize risks.  
 
-### Warum sind Rewrites riskant?
-Rewrites sind riskant, weil sie häufig als „Alles-oder-Nichts“-Projekte betrieben werden, bei denen während der Arbeit kein echter Mehrwert für Kunden entsteht. Dadurch droht die Konkurrenz schneller zu sein, und das Projekt scheitert.
+### Insights: Success factors for rewrites  
+1. Rewrites must create value, not just refresh internal code.  
+2. An incremental approach is crucial—“all-or-nothing” usually fails.  
 
-### Fallstudien: Erfolgreiche Rewrites trotz Risiken
-- **Migration von Adobe Flash:** Statt sofort alles neu zu schreiben, begann man mit einem minimalistischen Produkt für Geschäfts-Kunden und erweiterte es sukzessive.
-- **Monolithische Workflow-Systeme:** Schrittweise wurde problematischer Code ersetzt, trotz Fehlern und Herausforderungen.
-- **Täglicher Datenimport:** Für Schlüsselkunden wurde eine 25-Stunden-Prozedur auf 5 Sekunden reduziert, anschließend inkrementeller Rollout.
-- **Plattform mit externen APIs:** Neue APIs und Microservices wurden Stück für Stück eingeführt und gleichzeitig refaktoriert.
-- **VS Code:** Kein Ersatz für Visual Studio, sondern ein neues, schlankes Produkt für einen neuen Markt mit maßgeblichem Erfolg.
-- **Limp Poker Frontend:** Alte und neue Frontend-Komponenten liefen parallel, um Risiken zu minimieren.
+> “Don’t sell rewrite projects as rewrites—sell features and improvements.”  
 
-### Erkenntnisse: Erfolgsfaktoren für Rewrites
-1. Rewrites müssen Wert schaffen und nicht nur internen Code erneuern.
-2. Ein inkrementeller Ansatz ist erfolgsentscheidend – „Alles-oder-Nichts“ führt meist zum Scheitern.
+### Strategies for successful rewrites  
+- **Create internal competition:** e.g., building new products for different markets (Flash, VS Code).  
+- **Incremental replacement:** Stepwise replacement of problematic system parts (Strangler Fig Pattern).  
 
-> „Verkauft keine Rewrite-Projekte als Rewrite – verkauft Features und Verbesserungen." 
+### Further considerations and pitfalls  
+The combination of incremental development and customer focus maximizes chances of success. Tools and AI can accelerate progress but do not replace critical evaluation and refactoring.  
 
-### Strategien für erfolgreiche Rewrites
-- **Interne Konkurrenz schaffen:** Z.B. entwickeln neuer Produkte für andere Märkte (Flash, VS Code).
-- **Inkrementeller Ersatz:** Schrittweiser Austausch problematischer Systemteile (Strangler Fig Pattern).
+> “AI can make developers 30–40% faster, but code quality remains decisive.”  
 
-### Weitere Überlegungen und Fallstricke
-Die Kombination aus inkrementeller Entwicklung und Kundenfokus maximiert die Chancen. Tools und KI können beschleunigen, ersetzen aber nicht die kritische Bewertung und Refaktorisierung.
+### Conclusion  
+Rewrites are not taboo if carried out strategically, customer-focused, and incrementally. Refactoring remains essential, especially in the era of AI-assisted programming.  
 
-> „KI kann Entwickler bis zu 30-40 % schneller machen, aber Code-Qualität bleibt entscheidend.“
+### Outlook and resources  
+- Follow my YouTube channel for more technical insights.  
+- Sign up for my coaching program to improve presentations and technical communication.  
 
-### Fazit
-Rewrites sind keine Tabu-Themen, wenn sie mit Strategie, Kundenorientierung und schrittweisem Vorgehen umgesetzt werden. Refaktorisierung bleibt essenziell, gerade auch im Zeitalter von KI-gestützter Programmierung.
-
-### Ausblick und Ressourcen
-- Folge meinem YouTube-Kanal für weitere technische Insights.
-- Melde dich für mein Coaching-Programm an, um Präsentationen und technische Kommunikation zu verbessern.
-
-Fragen sind jederzeit willkommen – sprich mich gern an!
+Questions are always welcome—feel free to reach out!  
