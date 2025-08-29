@@ -1,4 +1,9 @@
-# I Did 850 Tech Interviews For Amazon And I Learned This
+---
+title: I Did 850 Tech Interviews For Amazon And I Learned This
+date: 2025-08-12
+category: videos
+tags: [interview]
+---
 ![thumbnail](https://i.ytimg.com/vi/Sb0p1-TGjmc/maxresdefault.jpg)
 
 ## My thoughts
