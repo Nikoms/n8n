@@ -7,7 +7,6 @@ excerpt: Mark Richards discusses the ninth fallacy of distributed computing: tha
 ---
 
 ![thumbnail](https://i.ytimg.com/vi/pVgCRKkuWzk/maxresdefault.jpg)
-[]()
 
 ## My thoughts
 
