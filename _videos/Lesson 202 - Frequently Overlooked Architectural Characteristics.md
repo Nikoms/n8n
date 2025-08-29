@@ -1,4 +1,9 @@
-# Lesson 202 - Frequently Overlooked Architectural Characteristics
+---
+title: Lesson 202 - Frequently Overlooked Architectural Characteristics
+date: 2025-08-12
+category: videos
+tags: [architecture]
+---
 ![thumbnail](https://i.ytimg.com/vi/Ojh8VoKsxqY/maxresdefault.jpg)
 [https://youtu.be/Ojh8VoKsxqY?si=APLDsDDs8BnoSHG-](https://youtu.be/Ojh8VoKsxqY?si=APLDsDDs8BnoSHG-)
 
