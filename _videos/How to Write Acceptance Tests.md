@@ -1,4 +1,10 @@
-# How to Write Acceptance Tests
+---
+title: How to Write Acceptance Tests
+date: 2025-08-09
+category: videos
+tags: [acceptance, automated test, dsl]
+---
+
 ![thumbnail](https://i.ytimg.com/vi/JDD5EEJgpHU/maxresdefault.jpg)
 
 ## My thoughts
