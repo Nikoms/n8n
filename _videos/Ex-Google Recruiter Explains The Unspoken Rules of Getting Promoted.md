@@ -1,4 +1,9 @@
-# Ex-Google Recruiter Explains The Unspoken Rules of Getting Promoted
+---
+title: Ex-Google Recruiter Explains The Unspoken Rules of Getting Promoted
+date: 2025-08-10
+category: videos
+tags: [promotion]
+---
 ![thumbnail](https://i.ytimg.com/vi/x10KBEAONDw/maxresdefault.jpg?v=6892b3c9)
 [https://youtu.be/x10KBEAONDw?si=SieGd6idOvEQiPX2](https://youtu.be/x10KBEAONDw?si=SieGd6idOvEQiPX2)
 
