@@ -3,7 +3,7 @@ title: Lesson147 - The Fallacies of Versioning
 date: 2025-08-22T17:46:14.566+02:00
 category: videos
 tags: [software architecture,distributed computing,versioning,microservices,APIs,contract versioning,software development,software engineering]
-excerpt: Mark Richards discusses the ninth fallacy of distributed computing: that versioning is simple. He explores the complexities of versioning microservices, API contracts, and shared libraries, illustrated with a trading app example, and emphasizes the technical and communication challenges involved.
+excerpt: "Mark Richards discusses the ninth fallacy of distributed computing: that versioning is simple. He explores the complexities of versioning microservices, API contracts, and shared libraries, illustrated with a trading app example, and emphasizes the technical and communication challenges involved."
 ---
 
 ![thumbnail](https://i.ytimg.com/vi/pVgCRKkuWzk/maxresdefault.jpg)
