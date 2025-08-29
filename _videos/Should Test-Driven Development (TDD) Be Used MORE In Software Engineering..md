@@ -3,7 +3,7 @@ title: Should Test-Driven Development (TDD) Be Used MORE In Software Engineering
 date: 2025-08-17T10:50:39.929+02:00
 category: videos
 tags: [test-driven development, TDD, software design, refactoring, unit testing, approval testing, software engineering, software quality, programming best practices]
-excerpt: A deep dive into why Test-Driven Development (TDD) should be more widely used: how it works, its design benefits, teaching challenges, importance of writing tests first, and how it improves software quality.
+excerpt: "A deep dive into why Test-Driven Development (TDD) should be more widely used: how it works, its design benefits, teaching challenges, importance of writing tests first, and how it improves software quality."
 ---
 
 ![thumbnail](https://i.ytimg.com/vi/6yb7jKpxTjM/maxresdefault.jpg)
