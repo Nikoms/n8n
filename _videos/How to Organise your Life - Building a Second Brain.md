@@ -1,4 +1,11 @@
-# How to Organise your Life - Building a Second Brain
+---
+title: How to Organise your Life - Building a Second Brain
+date: 2025-08-10
+category: videos
+tags: [2nd brain, organisation]
+---
+
+
 ![thumbnail](https://i.ytimg.com/vi/K-ssUVyfn5g/maxresdefault.jpg)
 [https://youtu.be/K-ssUVyfn5g?si=83CkEId8iczg3C83](https://youtu.be/K-ssUVyfn5g?si=83CkEId8iczg3C83)
 
