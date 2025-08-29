@@ -3,7 +3,7 @@ title: The two values of software - Uncle Bob (en)
 date: 2025-08-23T22:28:49.802+02:00
 category: videos
 tags: [software development, software design, software flexibility, software structure, programming principles, software maintenance, software quality]
-excerpt: Exploring the two essential values of software: its functionality and its structure, and why flexibility and adaptability are crucial for long-term software success.
+excerpt: "Exploring the two essential values of software: its functionality and its structure, and why flexibility and adaptability are crucial for long-term software success."
 ---
 
 ![thumbnail](https://i.ytimg.com/vi/vekDsS_KRho/maxresdefault.jpg)
