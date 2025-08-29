@@ -14,6 +14,11 @@ tags: [career, principal engineer]
 - Regularly practice interviewing to build active listening, communication, and calibration skills.  
 - Learn to say no strategically, only accepting tasks that offer significant impact or value to you or others.
 
+How to write a good story in brag document:
+> In April I led and organized a successful patent drive for my organization. I worked with XXX from the legal team to give a presentation at the kick-off meeting so that everybody understood the process, and split the XXX participants into teams with a person experienced in the process.
+> In all, XXX ideas were submitted, and XXX patents were filed. I personally filed XXX patents from this event and XXX people filed their very first patent as a result.
+
+
 ## TLDR;
 - Leverage is doing more with less effort, applicable to career growth.
 - Three high leverage career skills: document accomplishments effectively, improve interviewing skills, and learn to say no wisely.
