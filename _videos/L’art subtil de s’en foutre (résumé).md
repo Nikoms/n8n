@@ -2,12 +2,11 @@
 title: L’art subtil de s’en foutre (résumé) (fr)
 date: 2025-08-23T21:24:48.871+02:00
 category: videos
-tags: [développement personnel, Mark Manson, philosophie de vie, acceptation, responsabilité, valeurs, succès, engagement, émotions, bonheur]
+tags: [développement personnel, Mark Manson, philosophie de vie]
 excerpt: Résumé exhaustif de "L'art subtil de s'en foutre" de Mark Manson : une philosophie réaliste du bonheur fondée sur l'acceptation, la responsabilité et le choix des priorités.
 ---
 
 ![thumbnail](https://i.ytimg.com/vi/koZ17wahohA/maxresdefault.jpg)
-[]()
 
 ## My thoughts
 
