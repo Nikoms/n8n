@@ -1,5 +1,5 @@
 ---
-title: Amazon Principal Engineer (L7) On Layoffs, Interviewing & Career Growth | Steve Huynh (en)
+title: "Amazon Principal Engineer (L7) On Layoffs, Interviewing & Career Growth | Steve Huynh (en)"
 date: 2025-08-25T13:40:58.405+02:00
 category: videos
 tags: [big tech, Amazon, interview preparation, career advice, software engineering, behavioral interview, promotion, principal engineer, Amazon culture, networking, AI impact, technical depth, career growth]
