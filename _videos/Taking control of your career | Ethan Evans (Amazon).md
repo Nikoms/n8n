@@ -1,4 +1,10 @@
-# Taking control of your career | Ethan Evans (Amazon)
+---
+title: Taking control of your career | Ethan Evans (Amazon)
+date: 2025-08-10
+category: videos
+tags: [promotion, career]
+---
+
 ![thumbnail](https://i.ytimg.com/vi/GB0P0_nFPTA/maxresdefault.jpg)
 
 ## My thoughts
