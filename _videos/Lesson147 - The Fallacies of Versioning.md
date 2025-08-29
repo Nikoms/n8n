@@ -1,5 +1,5 @@
 ---
-title: Lesson147 - The Fallacies of Versioning (en)
+title: Lesson147 - The Fallacies of Versioning
 date: 2025-08-22T17:46:14.566+02:00
 category: videos
 tags: [software architecture,distributed computing,versioning,microservices,APIs,contract versioning,software development,software engineering]
