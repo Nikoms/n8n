@@ -1,0 +1,5 @@
+- Ambiguous requests at work, like "use AI to improve operations" or "modernize," cause confusion without clear goals.
+- The first tool is identifying what kind of clarity you need (metrics, questions, boundaries, principles) to cut through ambiguity.
+- The second tool is recursive inversion: figure out what would cause failure and do the opposite to find the path to success.
+- The third tool is using a questioning strategy, like "20 questions," to identify unknowns and clarify the problem space step-by-step.
+- Combining these methods helps turn unclear projects into actionable strategies and builds confidence in decision-making.
