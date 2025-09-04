@@ -1,0 +1,16 @@
+- The talk focuses on improving resilience and robustness in distributed systems.
+- Three core concepts are discussed: timeouts (knowing when to give up), retries (knowing when to try again), and idempotency (ensuring retries are safe).
+- Distributed systems involve multiple computers communicating via networks, with inherent challenges like network delays and unreachable nodes.
+- Timeouts prevent systems from waiting indefinitely, conserving computing resources, and meeting user expectations.
+- Properly configured timeouts avoid resource exhaustion and system crashes; real-world case study with timeout misconfiguration causing system failure.
+- Analyze normal system behavior with histograms to set appropriate timeout thresholds.
+- Retries are useful due to transient failures, but must be limited to avoid overloading servers.
+- Add jitter to retry delays to avoid retry storms and synchronized retry waves.
+- Idempotency ensures repeated operations yield the same result, critical for safely retrying operations like payments.
+- Implement idempotency using unique request IDs or server-side fingerprinting, each with advantages and caveats.
+- Request IDs require client-server protocol changes, easiest for greenfield development.
+- Server-side fingerprinting can retrofit legacy systems but has pitfalls like timestamp changes and repeated identical requests.
+- When retrying an operation with the same request ID, the server should return the original response to maintain consistency.
+- The common quote about insanity is misleading in distributed systems contexts; retrying the same operation can be essential.
+- Use connection libraries like Polly or Resilience4J to implement these patterns effectively.
+- Understanding and tuning timeouts, retries, and idempotency are foundational to building robust distributed systems.
