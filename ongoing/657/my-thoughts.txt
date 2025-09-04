@@ -1,1 +1,1 @@
-Not specified (yet)
+The video emphasizes the critical importance of being able to change timeouts without modifying code, allowing rapid adjustments in production when issues arise. This flexibility helps maintain system stability by tuning timeout thresholds based on real-time observations and load testing. It also prevents the need for costly redeployments just to tweak timeout settings, making it an essential best practice in building resilient distributed systems.
