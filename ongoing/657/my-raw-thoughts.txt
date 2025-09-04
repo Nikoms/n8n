@@ -1,1 +1,2 @@
  
+You could change timeout without changing code
