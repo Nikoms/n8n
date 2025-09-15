@@ -1,0 +1,8 @@
+- Modularity means breaking systems into smaller separately deployed units, unlike granularity which is about the size of those units.
+- Five key drivers of architectural modularity are maintainability, testability, deployability, scalability, and fault tolerance.
+- Maintainability: easier to locate and apply changes in modular systems compared to large monoliths.
+- Testability: modular systems reduce the testing scope and completeness concerns compared to monoliths.
+- Deployability: modular deployments involve less ceremony, higher frequency, and lower risks.
+- Scalability: modules allow scaling only necessary functions rather than the entire system.
+- Fault tolerance: failures affect only individual modules, not the whole system.
+- Excessive coupling among modules negates these benefits, leading to increased complexity and risk, which relates to granularity issues.
