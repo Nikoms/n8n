@@ -1,0 +1,8 @@
+- Modularity is about breaking systems into smaller, separately deployed units of software, while granularity refers to the size of those pieces.
+- Architectural modularity improves maintainability by making it easier to locate and apply changes.
+- Testability benefits from modularity by reducing the scope and number of tests needed after changes.
+- Deployability improves because smaller modules reduce deployment ceremony, increase frequency, and lower risk.
+- Scalability is more efficient as only needed parts are scaled instead of the whole system.
+- Fault tolerance improves since failure in one module does not bring down the entire system.
+- Excessive coupling between modules negates these benefits, leading to integration issues and scaling problems.
+- Granularity must be carefully managed to avoid pitfalls despite modularity benefits.
