@@ -1,0 +1,7 @@
+- Software is complicated and requires cautious, careful development.
+- Continuous Integration (CI) with trunk-based development improves quality and speed based on large-scale data.
+- Pull requests often hinder fast feedback necessary for effective CI.
+- Code reviews are important but pull requests slow down the process due to waiting times and asynchronous communication.
+- Pair programming integrates code review into the development process, providing fast, high-quality feedback.
+- Pair programming improves productivity and reduces defects despite common misconceptions.
+- Teams should experiment with pair programming for a short period to evaluate its benefits.
