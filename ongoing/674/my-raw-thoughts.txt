@@ -1,1 +1,2 @@
  
+Intéressant de voir que la meme solution peut donner plein de trucs positifs mais aussi les memes négatifs si c’est mal fait! Par exemple scalability pour un micro service c’est vrai que s’il n est pas dépendant d’autres sinon je dois scale tout le monde
