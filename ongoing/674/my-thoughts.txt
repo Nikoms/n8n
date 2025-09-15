@@ -1,1 +1,1 @@
-Not specified (yet)
+The video explains how architectural modularity brings many benefits like easier maintainability, improved testability, faster and less risky deployments, targeted scalability, and better fault tolerance. However, it also warns that if the modular pieces are too tightly coupled, many of these advantages disappear—scaling one service may require scaling all dependent ones, and failures in one can impact the entire system. This highlights that getting the granularity right is crucial to truly gain from modularity.
