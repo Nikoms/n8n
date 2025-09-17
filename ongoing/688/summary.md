@@ -3,7 +3,7 @@ title: "Exposing the not-so-secret practices of the cult of DDD - Chris Klug - N
 date: 2025-09-17T18:16:03.735+02:00
 category: videos
 tags: [Domain-Driven Design,DDD,value objects,ubiquitous language,architecture,onion architecture,CQRS,messaging,software design,software development,.NET,.NET Core,entity framework]
-excerpt: "A deep dive into Domain-Driven Design concepts including ubiquitous language, value objects, domain events, architecture patterns, and pragmatic advice for applying DDD in real-world software projects.
+excerpt: "A deep dive into Domain-Driven Design concepts including ubiquitous language, value objects, domain events, architecture patterns, and pragmatic advice for applying DDD in real-world software projects."
 ---
 
 ![thumbnail](https://i.ytimg.com/vi/ESPnfFT6iD0/maxresdefault.jpg)
