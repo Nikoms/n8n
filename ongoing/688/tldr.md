@@ -1,0 +1,12 @@
+- DDD (Domain-Driven Design) is valuable but not always practical, especially for consultants due to time constraints.
+- Ubiquitous language is key: code should reflect the domain language closely for clarity with domain experts.
+- Tactical patterns like value objects improve code quality by encapsulating validation and ensuring immutability.
+- Strategic patterns involve architectural decisions, such as subdomains, bounded contexts, layered and hexagonal architectures.
+- Value objects have value equality, immutability, and self-validation, making them powerful for domain modeling.
+- Entities have unique identities and change over time, unlike value objects.
+- Use natural identifiers in domain models instead of database IDs for clarity and correctness.
+- Repositories should have clear, intention-revealing method names instead of generic ones.
+- Anti-corruption layers separate domain models from external models to prevent dependency and complexity leakage.
+- Messaging and domain events are important for asynchronous communication; consistency challenges require patterns like the outbox.
+- CQRS fits naturally into DDD, and duplication of read models can be acceptable for simplicity.
+- The ultimate goal is code that developers understand in terms of both what it does and why, aligned with domain experts' language.
