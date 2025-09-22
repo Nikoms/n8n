@@ -1,0 +1,9 @@
+- 5 techniques mentales basées sur 30 ans de neurosciences pour améliorer concentration et productivité.
+- Le cerveau a un plan secret pour nous empêcher de réussir, programmé pour économiser de l'énergie.
+- Technique 1 : "Phrase moche" (Stephen King) pour surmonter la perfection paralysante en écrivant volontairement mal.
+- Technique 2 : Créer un rituel d'ancrage neuronal pour déclencher un état mental de concentration ou confiance.
+- Technique 3 : Utiliser l'effet Zeigarnik en amorçant une tâche petite et facilement réalisable pour enclencher l'action.
+- Technique 4 : Le batching cognitif, regrouper les tâches similaires pour éviter le multitâche et conserver l'énergie mentale.
+- Technique 5 : La loi des trois tâches de Warren Buffett, se concentrer sur seulement trois priorités pour éviter la surcharge décisionnelle.
+- Bonus : Pratiquer l'autocompassion plutôt que l'autocritique pour mieux rebondir et réduire le stress.
+- Annonce du roman interactif "La Confrérie de Nuada", sorti le 28 août, pour vivre une aventure personnalisée.
