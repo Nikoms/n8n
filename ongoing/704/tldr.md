@@ -1,0 +1,12 @@
+- David Fowler got promoted 11 times at Microsoft from intern to distinguished engineer over 17 years.
+- Microsoft leveling system has multiple levels within each title band; the highest levels include partner, technical fellow.
+- Early career highlights include building NuGet (package manager) and SignalR as passion projects, which helped rapid promotion.
+- Promotion to principal involved learning to delegate, manage large teams, and focus on outcomes instead of individual output.
+- Distinguished engineer promotion is peer-reviewed and based on long-term company-wide impact.
+- Culture shift at Microsoft under Satya Nadella emphasized collaboration over competition, more inclusive communication.
+- Important career lessons: agency through building projects, seeking impactful work, networking, and amplifying strengths.
+- Advocates continuous coding even at senior levels to maintain connection with engineering.
+- Advocates negotiation on salary early in career and learning debugging as a key engineering skill.
+- Advice on big company moves: ask about recent reorganizations to understand stability and direction.
+- Work-life balance is about energy management; coding remains a passion, meetings can drain energy.
+- Career reflection includes regret about early arrogance and missing early opportunities like Bitcoin.
