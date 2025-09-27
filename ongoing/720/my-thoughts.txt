@@ -1,1 +1,1 @@
-Not specified (yet)
+The video highlights that using a classic C-style for loop with a cached array length is the fastest way to iterate over large arrays in JavaScript, outperforming other methods like forEach or map due to reduced overhead and better optimization by the JIT. It explains how minimizing work inside the loop and ensuring consistent object shapes helps the JIT optimize code effectively, which is critical for performance in loops. This technique offers significant speed gains, especially when working with large data sets or performance-critical applications.
