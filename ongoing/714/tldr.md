@@ -1,0 +1,9 @@
+- Introduces a two-part middlegame chess strategy applicable after any opening.
+- Part one: "Sit on your hands" – pause and analyze why the opponent made their move to avoid blunders.
+- Part two: CCTO thinking system – check every move for Checks, Captures, Threats, and Optimization.
+- Always perform CCTO on every move to prevent mistakes and find tactical opportunities.
+- Optimization involves developing pieces and controlling central pawns (E, D, C).
+- Demonstrates the method through a game against a 2300-rated opponent, showing how the framework avoids blunders and leads to winning.
+- Emphasizes prioritizing blunder prevention and thoughtful positional improvement over risky play.
+- The approach helped the speaker achieve a chess.com rating over 2200.
+- Final stages highlight simple endgame technique with connected passed pawns to secure a win.
