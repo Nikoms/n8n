@@ -2,3 +2,5 @@
 Use « for » with array.length is the fastest
 
 CPU cache on loop: use sequence in memory
+
+Yield and coroutine helps to not eat all the cpu and block the event loop
