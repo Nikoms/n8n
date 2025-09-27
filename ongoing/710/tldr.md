@@ -1,0 +1,11 @@
+- People often waste their 24-hour days on work and avoiding work.
+- The speaker found 8 hacks to better use evenings after the birth of his son.
+- Hack 1: Customize your social media feed to learn and feed your mind.
+- Hack 2: Embrace work-life integration rather than balance; use evenings for important but not urgent tasks.
+- Hack 3: Schedule and be fully present for family time with intentional activities.
+- Hack 4: Defend downtime by blocking hobby time, choosing challenging hobbies, and making them recurring.
+- Hack 5: Never eat alone; use meals and physical activities to build business and social connections.
+- Hack 6: Avoid temptations by changing your environment to make good choices easier.
+- Hack 7: Do an evening reset using reflection, goal review, and planning for tomorrow.
+- Hack 8: Set a bedtime alarm to ensure consistent sleep and better mornings.
+- Consistent evening routines and intentional choices lead to better productivity and life integration.
