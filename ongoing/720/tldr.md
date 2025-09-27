@@ -1,0 +1,23 @@
+- JavaScript is widely used but not the fastest language; making it fast requires optimization.
+- Performance optimization must be balanced with maintainability and bugs.
+- Measure performance to identify biggest bottlenecks and optimize those.
+- Understand JavaScript runs via interpreter, bytecode, and JIT compiler.
+- DOM and CSS complexity affect performance but focus was on JavaScript.
+- Use Chrome and Firefox DevTools for profiling CPU and memory.
+- 'Cheat' with UI tricks to improve perceived performance.
+- Use efficient data structures like maps, sets, heaps, caching, memoization.
+- Use web workers for multi-threading; watch out for message cloning overhead.
+- Transferables can improve data passing to workers.
+- Optimize loops by hoisting invariants, using C-style loops, and cache coherence.
+- Data-oriented programming improves CPU cache usage, e.g. entity-component systems.
+- Avoid naive O(n²) algorithms by spatial hashing for collision detection.
+- Coroutines (generators) allow spreading work over frames to keep UI responsive.
+- WebAssembly (Wasm) offers consistent performance, SIMD support, security sandbox, multi-language support, but larger binaries and harder debugging.
+- GPU suitable for massively parallel tasks like simulations and matrices; WebGPU still immature.
+- Memory in JS is garbage collected; leaks caused by unintentional globals, event handlers, closures, detached DOM nodes.
+- Use heap snapshots and performance monitors to detect leaks.
+- Avoid thrashing by using scratch variables and object pools/arenas to reduce allocations.
+- JIT optimizes monomorphic objects with consistent hidden classes; adding properties at runtime causes deoptimization.
+- Benchmark in consistent environments to prevent regressions.
+- Set clear performance goals and focus optimization on biggest issues.
+- Recommended further learning resources include Front-End Masters courses and V8 engineers' talks.
