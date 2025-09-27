@@ -1,1 +1,7 @@
-Not specified (yet)
+CCTO is a four-step thinking system to use every move in chess:  
+- Checks: Look for any possible checks you can make.  
+- Captures: Consider capturing opponent’s pieces, even if it’s not immediately beneficial.  
+- Threats: Identify any threats you can pose, like attacking higher-value or unprotected pieces.  
+- Optimization: Improve your position by developing pieces or advancing key pawns (E, D, C pawns).  
+
+Using CCTO every move helps prevent blunders and guides strategic play during the middlegame.
