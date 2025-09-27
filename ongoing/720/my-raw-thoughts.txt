@@ -1,1 +1,2 @@
  
+Use « for » with array.length is the fastest
