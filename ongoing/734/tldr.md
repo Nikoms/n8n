@@ -1,0 +1,10 @@
+- Architecture Decision Records (ADRs) are short text files documenting architectural decisions.
+- ADRs can and should be incorporated into existing systems, not just new ones.
+- Key sections of an ADR: Title, Status, Context, Alternatives, Decision, and Consequences.
+- Start by identifying major architectural decisions in the existing system and seek reasons for those decisions.
+- If rationale is unclear or no longer valid, write ADRs capturing potential changes or reaffirming decisions.
+- Example: Student testing system architecture examined for decisions such as database separation, fraud detection service, and queue sharding.
+- ADRs help build a documented Brain Trust about architectural choices and trade-offs over time.
+- Incorporating ADRs can also encourage architectural improvements, like changing the auto grading from inline to post grading with a background service.
+- Prior lessons on ADRs (55, 141) and architecture stories (106) provide additional context and background.
+- Using ADRs on existing systems promotes better architectural understanding and informed evolution.
