@@ -1,1 +1,1 @@
-Not specified (yet)
+ADRs can and should be written for existing systems, especially when nobody remembers why certain architectural decisions were made or when things have simply been done a certain way "because they always have." Incorporating ADRs into legacy systems helps create a documented Brain Trust around key architectural choices, which can reveal trade-offs and prompt valuable discussions on whether decisions should change. Starting with major decisions makes the process manageable and useful for improving understanding and future changes.
