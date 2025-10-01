@@ -1,1 +1,2 @@
  
+ADR can be written on an existing system. Useful when no one knows why we « always did it like that »
