@@ -1,0 +1,9 @@
+- The primary goal of BDD (Behavior-Driven Development) is effective communication to deliver business value, not just learning or testing.
+- BDD focuses on identifying the next most important functionality missing and defining clear scenarios to cover it.
+- It is about building shared understanding among stakeholders rather than just writing plain text tests or feature files.
+- Reframing tests as descriptions of expected behavior helped improve adoption and clarity.
+- The 'model client' concept emphasizes designing APIs from the consumer's perspective for better usability.
+- BDD scenarios evolved from business analysts’ acceptance criteria and were structured with 'Given, When, Then' to provide context.
+- Early BDD tools (like JBehave) aimed to link behavior and testing but had technical and adoption challenges.
+- Plain text feature files added complexity and indirection, which can detract from the main goal of clear communication.
+- The historical perspective highlights that tooling and language formats should support, not overshadow, collaboration and value delivery.
