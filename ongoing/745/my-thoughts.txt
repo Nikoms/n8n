@@ -1,1 +1,1 @@
-Not specified (yet)
+The video highlights that plain text files for BDD, like Cucumber Gherkin feature files, introduce unnecessary layers of indirection and complexity. While plain text aims to make scenarios accessible, it often results in extra processing steps and technical challenges that can hinder communication rather than help it. The core value of BDD is clear communication to get work done, not the overhead of managing plain text scenarios.
