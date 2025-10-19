@@ -1,0 +1,10 @@
+- AI engineering focuses on building applications on top of foundation models, which are large pre-trained AI systems like GPT or Google’s models.
+- Foundation models use transformers and attention mechanisms allowing parallel input processing and effective sequence modeling.
+- Key AI engineering tasks include prompt engineering, retrieval augmented generation (RAG), agentic systems, fine-tuning, dataset engineering, and inference optimization.
+- Evaluation is challenging due to open-ended tasks, black-box models, and requires robust pipelines combining automated and human evaluation.
+- Prompt engineering entails crafting clear, explicit instructions with examples, output format specification, and iterative experimentation.
+- RAG enhances models with external data retrieval, while agents actively use tools and APIs for multi-step tasks and planning.
+- Fine-tuning adapts models through full or parameter efficient techniques like LoRA balancing data, compute, and memory constraints.
+- Dataset engineering emphasizes high quality, relevant, diverse, and correctly formatted data with thorough annotation and processing.
+- Inference optimization covers hardware (GPUs, memory bandwidth), model compression (quantization, pruning), batching strategies, and specialized kernels.
+- Mature AI applications integrate these elements with guard rails, model routing, caching, monitoring, orchestrators, and leverage user feedback for continuous improvement.
