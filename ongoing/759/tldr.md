@@ -1,0 +1,14 @@
+- Presentation about test-driven development (TDD) and domain-driven design (DDD).
+- Starts with simple CRUD application for university student registration domain.
+- Emphasizes writing small incremental tests and implementing code to pass them.
+- Introduces ubiquitous language from domain experts in code naming.
+- Demonstrates separating API contract classes from internal application classes.
+- Uses vertical slice architecture grouping by domain concept.
+- Identifies a race condition issue with concurrent enrollments exceeding room capacity.
+- Instead of complex locking mechanisms, uses event storming to clarify business process.
+- Discovers better domain model where room allocation happens after enrollments based on popularity.
+- Develops a scheduling domain service to allocate courses to rooms optimally.
+- Emphasizes encapsulating business logic within domain entities and services.
+- Demonstrates refactoring and the value of TDD in maintaining clean code.
+- Shares tooling ideas for maintaining a domain glossary for ubiquitous language.
+- Concludes with code repository and tool access info.
