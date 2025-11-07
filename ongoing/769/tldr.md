@@ -1,0 +1,11 @@
+- Mocking is a controversial but valuable tool in test driven development (TDD).
+- Common misuse: mocking third-party code, which is risky and usually a mistake.
+- Unit tests measure code behavior: return values, state changes, or interactions.
+- Good tests measure code in controlled, repeatable ways to aid design and change.
+- Over-mocking tightly couples tests to implementation, making refactoring difficult.
+- Good design hides complexity and minimizes communication between code parts.
+- Abstraction layers should be created over third-party code rather than directly mocking it.
+- Testing should focus on what matters, not on internal implementation details.
+- Acceptance tests are better for verifying interactions with complex external systems.
+- Mocking third-party libraries leads to fragile, complicated tests; simple facades improve testability.
+- Keep code easy to read, test, and change by avoiding mocking the generic third-party libraries directly.
