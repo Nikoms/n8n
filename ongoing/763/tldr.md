@@ -1,0 +1,11 @@
+- A well-known web-based company transitioned from a mini-waterfall process with long lead times to using pair programming for feature development.
+- Initially, average development time per feature was 151 hours with pull request cycles taking 253 hours.
+- Code reviews on large pull requests were ineffective, often yielding fewer comments as change size increased.
+- 30% of features started to be developed with pair programming, allowing those features to skip code reviews.
+- After 100 days using pair programming, average feature development time dropped from 151 to 44 hours, median from 44 to 22 hours.
+- Bug counts decreased and software quality increased with pair programming.
+- Pull request cycle time reduced from 253 to 130 hours by eliminating many queues and delays.
+- Further improvements are being explored, including trunk-based development, TDD, and acceptance test-driven development.
+- Pair programming is shown to yield better quality, fewer bugs, and faster delivery despite initial managerial concerns.
+- Emphasizes running all tests faster rather than avoiding tests to reduce risk of bugs.
+- Encouragement to try pair programming due to its proven benefits and positive impact on team culture.
