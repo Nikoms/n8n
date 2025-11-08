@@ -1,0 +1,12 @@
+- Continuous Delivery (CD) enables fast, secure, reliable production changes focusing mainly on applications.
+- Applications should have clear, backward/forward compatible public interfaces with versioning and deprecation strategies.
+- Disposability is key: applications must support rolling redeployments, handle shutdown gracefully, and start quickly.
+- Stateless design is essential to avoid session affinity and enable easy scaling and deployment.
+- Delivery units (encapsulation) should contain all code, tests, monitoring, alerts, and configuration in a single versioned repository.
+- Testing should rely heavily on stubbed functional tests in realistic environments with real backing services and stubbed dependencies.
+- Observability (metrics, logs, dashboards, alerts) must be versioned and deployed with the application.
+- Minimize configuration and keep it environment-specific; treat database schema as versioned code tightly coupled with the application.
+- Design for mixed-version running and reduced blast radius across regions.
+- Decouple application architecture from infrastructure to enable portability across cloud providers and platforms.
+- Emphasize automated health checks (liveness/readiness), graceful shutdown, and fast startup to ensure reliability during deployments.
+- The talk references the 12 Factor App principles as foundational guidance.
