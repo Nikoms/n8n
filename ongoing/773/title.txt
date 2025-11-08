@@ -1,0 +1,1 @@
+Application Architecture for Real World Continuous Delivery  by  Christopher Batey
