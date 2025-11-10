@@ -1,1 +1,1 @@
-Not specified (yet)
+Tracer bullet is an approach to making timely decisions by quickly exploring different parts of a problem early in a project. It helps build a basic version covering core functionality to validate important decisions and reduce risks before committing fully. This method enables gradual development, focusing first on common cases, and allows course correction as more is learned.
