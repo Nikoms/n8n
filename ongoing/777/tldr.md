@@ -1,0 +1,11 @@
+- The talk is about the role and challenges of being an IT architect.
+- An architect is both a leader and a craftsman, requiring decision-making and leadership skills.
+- Humans often rely on fast intuitive thinking (System 1), which can lead to poor decisions; architects should engage in slower, analytical thinking (System 2) to improve decisions.
+- The Pareto Principle applies: focus on the 20% effort that resolves 80% of problems.
+- Use the tracer bullet approach to explore problems early and reduce risk by validating decisions from the start.
+- Avoid innovation addiction and fashion-driven development; prioritize solutions that deliver the best return on investment.
+- Leadership requires adapting style to the team members' experience and motivation (situational leadership).
+- Dealing with organizational politics is crucial; building trust turns adversaries into allies.
+- Political capital is like a bank account of trust and influence that requires careful management.
+- The perfect architect does not exist; common sense is the most valuable tool.
+
