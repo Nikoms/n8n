@@ -1,0 +1,15 @@
+- Technical neglect is distinct from technical debt and is often the underlying cause of unmanaged technical debt.
+- Technical debt is not inherently bad; it can be a deliberate tradeoff akin to borrowing time, with management and repayment plans being crucial.
+- Software degrades structurally over time due to changes and lack of broad focus, despite developers' best practices.
+- Metaphors are critical in understanding abstract software concepts; a good metaphor provides useful correspondences, minimal conflicts, and familiarity to its audience.
+- Legacy code has varied meanings but generally relates to outdated or hard-to-replace systems with lost knowledge.
+- A large portion of IT budgets is spent on maintaining legacy systems, which hampers productivity and growth.
+- AI-assisted code generation currently produces low-quality code requiring heavy fact-checking and does not solve legacy code problems.
+- Misconceptions about 'maintenance' and 'projects' versus 'products' mislead software development discourse.
+- Most developer time is spent working around past neglected technical issues, highlighting the cost of inaction.
+- Housework is a fitting metaphor for technical debt, emphasizing continuous upkeep and clearing as you go.
+- Effective management and early attention to technical neglect are vital to prevent accumulation of costly debt.
+- Neglect in software arises from absence and inaction rather than willful malice or incompetence.
+- Maintaining software is an ongoing product lifecycle activity, not a finite project phase.
+- Understanding the root causes (neglect) enables better strategies than only treating symptoms (technical debt).
+- The talk closes on the idea that habits and awareness are keys to managing technical challenges continuously.
