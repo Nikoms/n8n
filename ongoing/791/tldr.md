@@ -1,0 +1,7 @@
+- Getting promoted requires switching from just executing tasks to actively advocating for yourself.
+- Advocating means communicating your work, ideas, and progress regularly to your manager.
+- Leaders operate proactively by planning for the future, not just reacting to daily tasks.
+- Managing your time strategically is essential before managing yourself and others.
+- Successful leaders reduce friction within the company and help their managers by taking tasks off their plates.
+- Promotion depends more on communication, leadership skills, and strategic thinking than just technical skills or working longer hours.
+- To move up, focus on developing executive presence, clear vision, time management, and removing obstacles for others.
