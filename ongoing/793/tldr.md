@@ -1,0 +1,6 @@
+- Working hard alone does not guarantee career advancement; it is crucial to work on problems others care about.
+- Career growth parallels 'product market fit' in startups: your skills (product) must solve costly, painful problems (market) that the company values.
+- Asking the right questions to your manager about their pains reveals opportunities to add value.
+- Identify your unique skills by recognizing the problems you naturally solve, activities that energize you, and compliments you undervalue.
+- The 'value loop' framework: solve a specific problem for one person, generalize the solution into reusable tools or processes, and announce your achievements to build recognition and opportunities.
+- Being essential at work comes from connecting your unique abilities to real business pain points, not just technical skill or effort.
