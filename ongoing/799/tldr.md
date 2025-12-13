@@ -1,0 +1,14 @@
+- Technical debt is often misunderstood as the root problem, but it is usually an effect caused by *technical neglect*.
+- Neglect is difficult to identify because it is about what's missing or not done, unlike visible events.
+- Software inherently degrades in structure over time even with best practices due to limited focus and side-effects.
+- Maintenance is often confused with bug fixing; true maintenance includes ongoing care like 'clearing as you go'.
+- Metaphors are crucial for understanding software concepts; good metaphors must have useful correspondence, minimal conflict, and be familiar to the audience.
+- The term "legacy" is complex and often positive in general English, but negative in software contexts; its meaning varies widely.
+- Large portions of organizational IT budgets are spent on maintaining legacy systems, which drag productivity.
+- AI-assisted code generation currently produces quality issues similar to inexperienced short-term contractors, needing fact-checking.
+- Technical debt is best seen as a borrowing metaphor (debt with interest) that must be managed deliberately.
+- Unmanaged technical debt leads to developer frustration, increased security risks, poor compliance, and staff retention problems.
+- Most developer time is spent fixing past issues (failure demand) rather than creating new value.
+- Improving software quality requires recognizing and addressing neglect—the absence of necessary maintenance and care.
+- Software development is a continuous product effort, not a finite project with a clear end.
+
