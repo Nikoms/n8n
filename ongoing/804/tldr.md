@@ -1,0 +1,10 @@
+- Most AI-assisted software engineering today involves a lot of rework and struggles with complex, brownfield codebases.
+- Context engineering improves AI performance by managing the context window effectively, avoiding excessive and irrelevant data.
+- Intentional compaction compresses relevant context to keep AI focused and productive.
+- Using sub-agents helps control context scope by delegating specific tasks and summarizing results.
+- The research, plan, implement workflow optimizes context management and mental alignment in teams.
+- Mental alignment is crucial for understanding code changes and maintaining high-quality reviews.
+- Human oversight is essential; AI amplifies thinking but cannot replace it.
+- Spec-driven development is diluted and less practical; focus should be on effective context engineering.
+- Success in AI-assisted coding requires adapting workflows and culture to integrate AI effectively across all team levels.
+- Getting hands-on experience with one tool is recommended to learn effective context engineering and AI collaboration.
