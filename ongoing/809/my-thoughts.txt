@@ -1,1 +1,1 @@
-Not specified (yet)
+The video highlights that when using LLMs for coding, around 40% of the context window is the practical limit before you enter the "dumb zone," where performance and results start to degrade. Effective context management—through intentional compaction and keeping the working context within the "smart zone"—is crucial to avoid this drop-off. This approach enables better handling of complex tasks and brownfield codebases by focusing on relevant code snippets and minimizing noise in the context.
