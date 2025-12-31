@@ -1,6 +1,6 @@
 ---
 title: It Doesn't Have to Be Crazy at Work
-date: 2025-12-31T15:24:01.435+01:00
+date: 2025-12-31T15:24:02.765+01:00
 category: books
 tags: []
 excerpt: My highlights
