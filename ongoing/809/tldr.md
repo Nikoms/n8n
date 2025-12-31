@@ -1,0 +1,8 @@
+- Most AI-assisted software engineering currently involves significant reworking and code churn, especially in complex, brownfield codebases.
+- Context engineering helps optimize AI model usage by managing context windows to improve code generation quality and throughput.
+- Techniques like intentional compaction, sub-agents, and frequent context management (research, plan, implement) are effective.
+- Mental alignment via detailed plans and code reviews helps teams stay synchronized and maintain code quality.
+- AI amplifies human thinking but does not replace it; careful human oversight is necessary.
+- Spec-driven development is overhyped and semantically diffused; focus should be on practical context management.
+- The future challenge lies in adapting team workflows and SDLC processes to a world with mostly AI-generated code.
+- Leaders should encourage adoption through repetition and tooling focus to overcome cultural resistance.
