@@ -1,6 +1,6 @@
 ---
 title: Working Effectively with Legacy Code
-date: 2025-12-31T15:29:13.614+01:00
+date: 2025-12-31T15:29:14.989+01:00
 category: books
 tags: []
 excerpt: My highlights
