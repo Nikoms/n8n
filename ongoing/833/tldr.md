@@ -1,0 +1,18 @@
+- Agent skills allow autonomous application of custom expertise to repeat workflows, triggered by agents, and provide efficient context use and modularity.
+- MCP servers connect agents to external tools and data sources; they are distinct from skills.
+- Sub agents enable isolated, parallel workflows with separate context windows but lose context persistence.
+- Custom slash commands are manually invoked, reusable prompt shortcuts; mastering prompt engineering is crucial.
+- Skills support composability by using MCP servers, sub agents, and slash commands; they have a dedicated directory structure.
+- Use cases:
+  - Automatic PDF data extraction: Skill
+  - Connecting to Jira or fetching weather data: MCP server
+  - Parallel workflows (e.g., fixing tests): Sub agent
+  - Simple one-step tasks (e.g., get commit messages, UI component creation): Custom slash command
+- It is recommended to start with custom slash commands (prompts), then scale to sub agents for parallelism, and use skills for complex, reusable, modular solutions.
+- Hooks add deterministic automation during lifecycle events.
+- Plugins help package and share cloud code extensions.
+- Output styles format agent outputs, enhancing usability.
+- Pros of skills: agent-invoked, context protection, modular, composable, promote autonomy.
+- Cons of skills: cannot nest sub agents or prompts inside skills fully; reliability and chaining of multiple skills need further testing; innovation is incremental.
+- The prompt is the fundamental primitive; all agent coding builds atop context, model, prompt, and tools.
+- The creator rates skills 8/10, sees them as a powerful compositional layer rather than a replacement for other features.
