@@ -1,1 +1,4 @@
-The video clarifies when to use agent skills, sub agents, custom slash commands, and MCP servers. Use skills for automating recurring workflows with dedicated modular solutions. Sub agents are best for isolated, parallel tasks where context persistence isn’t required. MCP servers connect to external systems, while slash commands are manual, one-off prompt-driven actions and the fundamental building blocks of agent coding.
+- Use skills for automatic, repeatable workflows where you want a modular, dedicated solution that can compose multiple sub agents, slash commands, and MCP servers.  
+- Use sub agents when you need isolated context windows and want to parallelize tasks, especially for scalable, isolated workflows that don’t require context persistence.  
+- Use custom slash commands for manual triggers and simple, one-off prompt tasks; they are the fundamental compositional unit and should be your starting point.  
+- Use MCP servers to connect your agents to external data sources and third-party services, or to bundle multiple external integrations under one interface.
