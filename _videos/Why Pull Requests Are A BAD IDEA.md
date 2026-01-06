@@ -3,7 +3,7 @@ title: "Why Pull Requests Are A BAD IDEA (en)"
 date: 2025-09-15T11:13:31.320+02:00
 category: videos
 tags: [software development, continuous integration, pull requests, code review, pair programming, continuous delivery, devops, software quality]
-excerpt: "Dave Farley discusses the challenges of software development, emphasizing continuous integration principles, the inefficiencies of pull requests, and advocating pair programming as a superior approach for fast, high-quality code review.
+excerpt: "Dave Farley discusses the challenges of software development, emphasizing continuous integration principles, the inefficiencies of pull requests, and advocating pair programming as a superior approach for fast, high-quality code review."
 ---
 
 ![thumbnail](https://i.ytimg.com/vi/ASOSEiJCyEM/maxresdefault.jpg)

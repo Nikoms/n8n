@@ -3,7 +3,7 @@ title: "Lesson 211 - Architectural Modularity (en)"
 date: 2025-09-15T11:10:51.242+02:00
 category: videos
 tags: [software architecture, modularity, microservices, scalability, maintainability, testability, deployability, fault tolerance]
-excerpt: "Mark Richards explains architectural modularity, exploring its benefits on maintainability, testability, deployability, scalability, and fault tolerance, and cautions about the risks of improper granularity.
+excerpt: "Mark Richards explains architectural modularity, exploring its benefits on maintainability, testability, deployability, scalability, and fault tolerance, and cautions about the risks of improper granularity."
 ---
 
 ![thumbnail](https://i.ytimg.com/vi/DApenk3-0Gc/maxresdefault.jpg)

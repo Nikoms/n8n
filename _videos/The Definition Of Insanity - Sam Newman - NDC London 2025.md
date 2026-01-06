@@ -3,7 +3,7 @@ title: "The Definition Of Insanity - Sam Newman - NDC London 2025 (en)"
 date: 2025-09-04T23:19:36.319+02:00
 category: videos
 tags: [distributed systems,timeouts,retries,idempotency,resilience,robustness,networking,software engineering,microservices]
-excerpt: "An in-depth discussion on foundational concepts of building resilient distributed systems: correctly tuning timeouts, implementing safe retries, and ensuring operations are idempotent to avoid errors and system failures.
+excerpt: "An in-depth discussion on foundational concepts of building resilient distributed systems: correctly tuning timeouts, implementing safe retries, and ensuring operations are idempotent to avoid errors and system failures."
 ---
 
 ![thumbnail](https://i.ytimg.com/vi/I6SvnCYRm50/maxresdefault.jpg)

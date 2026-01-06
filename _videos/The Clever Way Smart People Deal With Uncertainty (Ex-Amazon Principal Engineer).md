@@ -3,7 +3,7 @@ title: "The Clever Way Smart People Deal With Uncertainty (Ex-Amazon Principal E
 date: 2025-09-01T12:42:08.377+02:00
 category: videos
 tags: [ambiguity management,problem solving,decision making,career advice,workplace productivity,strategic thinking,recursion,inversion method,questioning techniques]
-excerpt: "This video shares three practical tools to handle vague and ambiguous work requests: defining the type of needed clarity, using recursive inversion to find the path forward, and employing systematic questioning to refine understanding.
+excerpt: "This video shares three practical tools to handle vague and ambiguous work requests: defining the type of needed clarity, using recursive inversion to find the path forward, and employing systematic questioning to refine understanding."
 ---
 
 ![thumbnail](https://i.ytimg.com/vi/HjJQ3qIGXjI/maxresdefault.jpg)
