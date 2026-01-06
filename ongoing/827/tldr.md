@@ -1,0 +1,10 @@
+- En 2025, plus de 15 projets RAG réalisés avec 93 % de taux de déploiement.
+- 80 % des problèmes RAG viennent de la qualité des données ou de l'interface utilisateur, pas du modèle.
+- Importance de l'extraction correcte des données (OCR, suppression du bruit, gestion des doublons, métadonnées, données complètes).
+- L'interface doit guider l'utilisateur pour formuler les bonnes questions et éviter le syndrome du chatbot magique.
+- Le Golden Dataset (15 à 50 questions-réponses) est essentiel pour mesurer et optimiser la performance du RAG.
+- Configuration de base efficace pour PME : chunking naïf, embedding hybride et re-ranker.
+- Importance de l'évaluation rigoureuse avec précision, recall et faithfulness pour éviter les erreurs imprévues.
+- Principales erreurs : tests limités, mesurer faisabilité technique au lieu de valeur, mauvaise connaissance des données, trop gros scope, sous-estimer l’interface utilisateur, over engineering, absence d'audit et promesses irréalistes.
+- Prioriser la preuve de valeur plutôt que la preuve de concept. Savoir quand ne pas faire de RAG est crucial.
+- Le RAG est une brique parmi d'autres dans le succès des projets IA.
