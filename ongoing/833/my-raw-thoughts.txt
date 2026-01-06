@@ -1,2 +1,4 @@
  
 When to use what
+
+Give me what to use when. Use one bullet point per solution: skill, sub agent , slash, mcp…
