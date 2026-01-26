@@ -1,0 +1,7 @@
+- Behavior Driven Development (BDD) is often misunderstood as being about tools like Cucumber or collaboration practices like The Three Amigos, but it's fundamentally about specifying software behavior from a user's perspective.
+- BDD evolved to address misunderstandings in Test Driven Development (TDD), emphasizing design and development driven by behavior specifications rather than technical test details.
+- The core of BDD is writing tests as user-focused specifications describing what the software should do, not how it is implemented.
+- BDD helps create tests that are maintainable, reusable, and readable by abstracting implementation details, fostering better communication among team members.
+- Writing tests as executable specifications enables a better design process, aids collaboration, and maintains system flexibility and quality over time.
+- The process involves starting from vague user goals, refining them into user stories, specifying acceptance criteria with concrete examples (scenarios), and making these executable.
+- BDD is applicable beyond user-facing features, including backend systems, by focusing on the perspective of software users, whether external end-users or internal programmers.
