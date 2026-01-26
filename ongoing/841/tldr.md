@@ -1,0 +1,9 @@
+- CRUD (Create, Read, Update, Delete) focuses on entities and often forces end users to understand business rules that aren't captured in the system.
+- CRUD is simple for basic scenarios but becomes complex and hard to maintain as domain complexity grows.
+- Business rules scattered across client and server can cause confusion and lost knowledge for end users.
+- An alternative is focusing on explicit user tasks or capabilities rather than directly manipulating entities.
+- Explicit task-based interactions capture user intent clearly, making business rules enforceable and understandable.
+- Example: Instead of directly changing quantity in inventory, users perform explicit actions like shipping, receiving, or inventory adjustments.
+- Implementing business logic inside entity behaviors ensures rules are centralized and validated properly.
+- Some entity properties like name and description can remain simple CRUD where the user's intent is not critical.
+- This approach aligns well with event-driven architectures and improves clarity, maintainability, and system design.
