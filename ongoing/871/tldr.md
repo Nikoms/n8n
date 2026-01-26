@@ -1,0 +1,6 @@
+- BDD (Behavior Driven Development) is more than just tools like Gherkin, Cucumber, or SpecFlow; it is a methodology that connects the whole development process.
+- BDD promotes the use of a ubiquitous language, a shared problem domain language across business, development, and testing teams to improve communication and reduce misunderstandings.
+- The practice focuses on describing system behavior from the perspective of users, emphasizing "what" the system should do rather than "how".
+- BDD specifications are executable and durable, changing only when business goals change, enabling more flexible and maintainable testing.
+- A layered model separates test cases, domain-specific language (DSL), protocol drivers, and the system under test, supporting reuse and adaptability to different test implementations.
+- BDD helps build better aligned, more changeable software, and supports complex problem domains effectively.
