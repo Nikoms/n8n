@@ -1,0 +1,9 @@
+- BDD (Behavior-Driven Development) centers around separating system specifications from implementation.
+- It emphasizes describing what the system should do, not how it does it.
+- Collaboration and using a domain-specific language to express requirements consistently are key.
+- Common mistakes include confusing UI interactions with behavior, long and complex scenarios, lack of reuse in specifications, and scenario overload.
+- BDD specifications should be concise, reusable, behavior-focused, and guide development without prescribing implementation.
+- Effective BDD works best combined with other automated testing forms and focuses on user-desired behaviors.
+- Dave Farley advocates a four-layer approach: test cases, DSL layer, protocol drivers, and system under test.
+- Avoid using BDD scenarios to test every input; unit tests are better for detailed checks.
+- BDD helps improve software quality when done correctly but requires avoiding common pitfalls.
