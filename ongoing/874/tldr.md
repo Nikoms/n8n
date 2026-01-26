@@ -1,0 +1,10 @@
+- Real world examples provide deep insight into BDD and acceptance testing in practice.
+- Adaptive, a fintech consultancy, uses BDD style acceptance tests as executable specifications to drive development.
+- Their system Hydra abstracts accidental complexity, focusing on essential complexity for high performance.
+- They use a two-layer testing strategy: acceptance tests underpinned by TDD.
+- Tests define system configuration, set up data, execute scenarios, and verify outcomes clearly, though some implementation details leak into the scenarios.
+- The speaker suggests hiding technical details inside the DSL to keep tests focused on user outcomes.
+- Real trading jargon and FIX protocol terms appear in tests as they reflect the problem domain.
+- Tests cover both happy and failing paths of complex distributed systems.
+- Abstracting setup and DSL usage can improve scalability and maintainability.
+- Overall, Adaptive's tests are good examples of BDD acceptance testing in complex systems.
