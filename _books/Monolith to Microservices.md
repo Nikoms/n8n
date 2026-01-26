@@ -1,6 +1,6 @@
 ---
 title: Monolith to Microservices
-date: 2026-01-26T16:48:50.181+01:00
+date: 2026-01-26T16:48:51.145+01:00
 category: books
 tags: []
 excerpt: My highlights
