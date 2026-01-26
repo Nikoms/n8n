@@ -1,0 +1,9 @@
+- Five essential testing types for great software development are unit testing, acceptance testing, integration testing, approval testing, and manual testing.
+- Unit tests, performed via test-driven development, provide fast feedback to check code correctness and improve design.
+- Acceptance tests are business-facing, focus on system goals rather than implementation, help confirm releasability, and should be automated to replace manual regression testing.
+- Integration tests are tactical and mainly used to fail fast on common causes before expensive acceptance tests run.
+- Approval tests verify code behavior consistency over time, useful especially for legacy code and UI verification.
+- Manual testing is best suited for exploratory testing, not for regression due to inefficiency and unreliability.
+- Security, performance, and resilience testing are considered specialized acceptance tests focusing on releasability criteria.
+- Common mistakes include writing unit tests after code, confusing acceptance test purposes, overusing acceptance tests for all testing, and using humans for regression.
+- Testing is a fundamental part of development, not an afterthought; test-driven development and automated acceptance tests are key strategies.
