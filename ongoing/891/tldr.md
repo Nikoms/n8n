@@ -1,0 +1,9 @@
+- SE Rose is a consultant, coach, trainer, analyst, and developer known for promoting behavior driven development (BDD).
+- He emphasizes that BDD is more than just Cucumber or testing automation; it involves creating a domain-specific language to specify behavior at various abstraction levels.
+- Early software projects taught him the value of abstraction and incremental, evolutionary design.
+- Test-driven development (TDD) and BDD require practice and coaching, not just training sessions, to be effective.
+- Cyber Dojo is recommended as an excellent tool to practice TDD with many languages and testing frameworks.
+- Coaching is crucial to help apply learning in the right context and to adapt techniques appropriately.
+- Contract testing and tools like Pact help manage dependencies and versioning in microservices, enabling truly independent deployment.
+- Experts' advice must be taken with context and awareness of limitations; dogmatic adherence can be harmful.
+- Software development is inherently complex, requiring incremental learning, abstraction, and continuous adaptation.
