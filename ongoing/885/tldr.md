@@ -1,0 +1,9 @@
+- BDD (Behavior-Driven Development) began as a way to teach test-driven development (TDD) correctly by focusing on behavior rather than just testing.
+- BDD emphasizes specifying behavior using common language (ubiquitous language) shared between developers and business stakeholders.
+- BDD uses clear scenario structures (Given-When-Then) to capture executable specifications.
+- Avoid leaking technical implementation details in BDD scenarios to keep specifications durable and behavior-focused.
+- BDD supports two main goals: establishing a common language for the project and creating behavior-focused executable specifications.
+- BDD principles apply equally to high-level functional tests and detailed unit tests.
+- Writing tests from the perspective of an external user (real or imagined) helps focus on desirable behavior rather than implementation details.
+- Using words like "should" in test descriptions mentally encourages thinking about outcomes and behaviors.
+- Proper BDD leads to better communication, better software alignment with business goals, and higher-quality tests.
