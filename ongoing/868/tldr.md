@@ -1,0 +1,5 @@
+- User stories describe the problem to solve, not how to solve it.
+- Avoid treating user stories as detailed contracts; they should be conversation starters.
+- User stories should be small, manageable units of user value, ideally completable in a sprint or less.
+- Value to a user can be incremental; small steps are better than large, monolithic features.
+- Stories should be independent and implementable in any order to focus on delivering user value quickly.
