@@ -1,0 +1,12 @@
+- Automate all regression testing for reliable production deployment.
+- Use low-level TDD guided by user-focused, executable specifications (BDD scenarios).
+- Decide test level based on what is best suited to answer the question: user-facing behavior or precise code correctness.
+- BDD tests validate overall system requirements and user scenarios.
+- Unit tests focus on testing specific pieces of code precisely.
+- Don’t overly worry about duplication between BDD and unit tests; focus on clarity and correctness.
+- Tests are tools to build better software, not burdens to minimize.
+- Balancing precision and scope: use BDD as broad ‘tape measure’, unit tests as fine ‘ruler’.
+- Repetition across test types is expected and acceptable if it serves different purposes.
+- Prioritize making tests easy to understand over minimizing lines or CPU cycles.
+- Avoid organizational coupling by not over-optimizing to test each behavior once across teams.
+- Write tests continuously and focus on tests that validate the feature in front of you.
