@@ -1,1 +1,1 @@
-Not specified (yet)
+Intent is key because focusing on explicit user tasks rather than generic CRUD operations helps capture the true business rules and workflows within the system. This approach reduces ambiguity by making user actions clear and meaningful, avoiding the pitfalls of letting users manipulate entities without context. By modeling domain capabilities as explicit actions, the system better enforces rules and improves communication with users through precise validation and feedback.
