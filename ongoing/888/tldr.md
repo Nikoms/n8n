@@ -1,0 +1,8 @@
+- Kent Beck, one of the founders of Agile development, reflects on Agile's lasting impact and human challenges in software.
+- He highlights that while many Agile practices remain consistent, fundamental change requires addressing underlying power structures.
+- Kent discusses test-driven development (TDD), its origins, and its multifaceted benefits including design, testing, anxiety reduction, collaboration, and specification.
+- He introduces TCR as a variation of TDD emphasizing tiny incremental steps and immediate rollback on test failures.
+- The importance of incremental learning and exploring multiple sequences in software development is emphasized.
+- Kent is writing a series of books on software design focusing on human relationships, starting with "Tidy First?" which deals with balancing tidying code vs delivering behavior change.
+- Key themes include the connection between software structure and human relationships, responsibility in API changes, and healthy collaboration between business and technology.
+- Kent encourages experimentation and learning through trying different approaches and sharing insights from that process.
