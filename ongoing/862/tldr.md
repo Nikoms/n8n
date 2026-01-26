@@ -1,0 +1,9 @@
+- Software development work splits into solving user problems (essential complexity) and technical system work (accidental complexity).
+- Technical stories are often deprioritized, harming system quality and maintainability.
+- Separating user stories and technical stories for prioritization is a bad idea; it leads to poor quality software.
+- Developers should take responsibility for technical decisions and complexities instead of deferring them.
+- User stories represent user needs and should guide all development work.
+- Technical tasks should be integrated with user stories or justified by clear user value.
+- Continuous small improvements (Boy Scout rule) and prioritizing technical debt in terms understandable by business aides maintain system health.
+- High quality and fast development are not in conflict; small incremental changes improve speed and quality simultaneously.
+- Collaborative prioritization between technical and business roles is essential to balance value and system integrity.
