@@ -1,0 +1,12 @@
+- Test Driven Development (TDD) is a significant advance in software development.
+- Dave Farley was peripherally involved in the creation of Behavior Driven Development (BDD).
+- BDD is about focusing on behavior rather than tools or tests.
+- TDD involves writing tests before code, promoting better design and easier change.
+- Writing tests after code often results in fragile, tightly coupled tests.
+- BDD reframes tests as specifications focusing on system behavior.
+- The common BDD tools like Cucumber and SpecFlow support natural language specifications but are not the whole of BDD.
+- BDD applies both at fine-grained unit testing and high-level acceptance tests.
+- BDD and TDD differ in mindset, with BDD emphasizing behavior driven specifications.
+- Quality code properties include working functionality, modularity, cohesion, loose coupling, separation of concerns, and abstraction.
+- TDD and BDD improve code design and provide early feedback.
+- The value of BDD is enhanced testing quality by focusing on behavior rather than implementation details.
