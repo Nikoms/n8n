@@ -1,0 +1,10 @@
+- Most developers prefer working with software that has good automated tests.
+- The main challenge is how to automate testing effectively, not whether to automate.
+- Test Driven Development (TDD) provides fast, clear feedback and decouples tests from implementation, but is hard to retrofit to legacy code.
+- Behavior Driven Development (BDD) or acceptance test driven development is often a better starting point for improving automated testing on existing systems.
+- The aim is to reduce dependence on manual regression testing by automating critical behavioral scenarios.
+- Build a domain-specific language (DSL) for testing that abstracts what the system does, not how it does it.
+- A layered approach helps keep tests independent of implementation details and makes automation more maintainable.
+- Controlling test environment variables is key to reducing flaky tests and gaining reliable automated feedback.
+- Automating even basic acceptance tests quickly can replace much manual regression testing and accelerate feedback loops.
+- Continuous delivery, CI, and deployment automation complement automated testing for faster, more stable releases.
