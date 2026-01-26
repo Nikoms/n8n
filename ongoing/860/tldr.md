@@ -1,0 +1,7 @@
+- End-to-end testing often results in complex, fragile tests that lack control over variables.
+- Testing in production-like environments with controlled and fake external system interactions is more effective.
+- Good tests should be deterministic, atomic, concise, accurate, understandable, and durable.
+- End-to-end tests should focus on the releasable unit (own software), faking outside dependencies.
+- Contract testing between systems improves interface validation and team collaboration.
+- Sophisticated test rigs simulating external systems enable fast, reliable, and precise acceptance testing.
+- Real-world example from LMAX shows this approach prevents production incidents and accelerates testing.
