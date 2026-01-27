@@ -1,1 +1,1 @@
-Not specified (yet)
+The video emphasizes that the real value of BDD lies in communication to get work done, not in the documentation format. It highlights that using plain text feature files, like those in Cucumber, adds unnecessary complexity and layers of indirection between the business discussion and the code. The creator of Cucumber himself points out that while plain text scenarios seem appealing, they are not always practical or the best choice for managing BDD effectively.
