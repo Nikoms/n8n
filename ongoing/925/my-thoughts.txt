@@ -1,1 +1,1 @@
-Not specified (yet)
+The video emphasizes that the best approach to authorization combines clear, centralized policy logic with an auditable structure. Decoupling roles from permissions and using permission-based checks rather than sprawling role-based checks improves maintainability by reducing complexity like role explosion. Centralizing authorization in a policy engine allows for easier auditing, testing, and consistent enforcement across the API, making security both manageable and verifiable over time.
