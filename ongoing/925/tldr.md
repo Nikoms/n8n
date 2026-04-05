@@ -1,0 +1,10 @@
+- APIs are everywhere and securing them is hard, with authorization vulnerabilities being a major issue.
+- Authorization failures often lead to data theft or unauthorized actions; role explosion complicates authorization management.
+- Function level authorization is common but object level authorization is often missing, leading to severe vulnerabilities.
+- Centralizing authorization logic in a policy engine improves manageability, auditability, and security.
+- Sensitive data exposure occurs when APIs leak unnecessary data, often due to returning full models instead of tailored DTOs.
+- Username enumeration and brute force attacks on password reset functions are common and easy to carry out without proper protections.
+- Using signed tokens (e.g., JWT) for sensitive codes prevents tampering and enhances security.
+- Modern application borders are easy to breach; server-side request forgery (SSRF) exploits internal trust.
+- SSRF is hard to prevent due to URL parsing ambiguities; best mitigations include hardcoding URLs and input normalization.
+- Key takeaways: authorization policies must be auditable; APIs must be analyzed for data leaks and brute force vulnerabilities; internal systems require robust security beyond perimeter defenses.
