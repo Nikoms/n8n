@@ -1,0 +1,8 @@
+- En 2025, l'expérience montre que 80 % des problèmes dans les projets RAG viennent de la qualité des données ou de l'interface utilisateur, pas du modèle.
+- La mauvaise extraction de données, la présence de doublons, le bruit dans les données, l'absence de métadonnées et la donnée incomplète sont des freins majeurs.
+- L'interface doit guider l'utilisateur pour qu'il formule correctement ses questions et fournisse le contexte nécessaire.
+- Le Golden Dataset, un ensemble de 15 à 50 questions-réponses réelles, est indispensable pour évaluer la performance du RAG et définir la structuration de la donnée.
+- Une configuration de base efficace combine un chunking naïf, un embedding hybride (sémantique + mots-clés) et un reranker pour extraire les informations les plus pertinentes.
+- L'évaluation rigoureuse repose sur trois métriques clés : précision, rappel (recall) et fidélité à la source (faithfulness).
+- Les erreurs fréquentes incluent le testing insuffisant, la sous-estimation de la data et de l'interface, l'over-engineering, ne pas auditer la data ni comprendre le périmètre précis, et promettre des délais irréalistes sans connaître la donnée.
+- Le succès dépend de la preuve de valeur, pas simplement de la preuve de faisabilité technique, et il faut savoir quand ne pas faire de RAG pour éviter des projets voués à l'échec.
