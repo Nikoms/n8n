@@ -1,0 +1,14 @@
+- Discusses challenges of using Large Language Models (LLMs) as judges for monitoring AI agents reliability.
+- Emphasizes importance of calibration of LLM judges with human annotations to improve evaluation speeds and accuracy.
+- Introduces GAPA algorithm for prompt optimization to build calibrated LLM judges.
+- Uses a practical example: evaluating a customer support airline agent using the Towbench benchmark dataset.
+- Describes four specific error types to evaluate rather than a single general metric.
+- Details a workflow: metric design, data annotation, LLM judge optimization, and validation.
+- Highlights criticality of reasoning and explanation in human annotations to guide LLM judge learning.
+- Explains GAPA as an iterative genetic-algorithm-inspired approach using mutation and merging of prompts.
+- Stresses importance of seed prompt selection and custom reflection templates for effective learning.
+- Shares experiment results showing improved accuracy from 61% to 74% after optimization.
+- Notes challenges such as data quality, annotation complexity, and high computational cost.
+- Recommends using larger models for prompt refinement and smaller models for scoring to balance cost and performance.
+- Encourages overfitting to training data at initial stages to improve model learning.
+- Shares lessons learned from failed experiments and importance of iterative debugging and parameter tuning.
