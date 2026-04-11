@@ -1,0 +1,12 @@
+- Jared, founder of Prompt Layer, discusses autonomous coding agents and their recent breakthroughs.
+- Key innovation: simple architecture (master while loop + tool calls) combined with better, specialized models.
+- Cloud Code exemplifies this approach: relies on bash and a few tools to mimic human coding workflows.
+- Emphasis on simple, rigorous prompt engineering over complex pipelines like RAG or DAGs.
+- To-do lists and task management are prompt-based, leveraging models' instruction following.
+- Context management is crucial; sub-agents with isolated contexts help manage long codebases.
+- Sandboxing and permissions are important but often complex; focus on containment and security.
+- Different coding agents (Cloud Code, Codeex, AMP, Cursor) have different strengths and philosophies.
+- Testing and evaluation strategies include end-to-end tests, backtests, and function-like testing of tools.
+- Future trends may include fewer tool calls, adaptive reasoning budgets, and higher abstraction layers via SDKs.
+- Advice: trust models, keep designs simple, rely on bash tooling, and accept multiple agent philosophies.
+- Prompt Layer is a platform facilitating AI product development and collaboration; Jared is hiring in New York.
